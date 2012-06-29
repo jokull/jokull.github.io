@@ -162,7 +162,7 @@ window.require.define({"application": function(exports, require, module) {
         user = '14382443';
         token = '1049644.884e778.85dd826cf0d146408e7d0e509678badb';
         return $.ajax({
-          url: "https://api.instagram.com/v1/users/self/media/recent?count=10&access_token=" + token,
+          url: "https://api.instagram.com/v1/users/self/media/recent?count=12&access_token=" + token,
           dataType: "jsonp",
           success: function(data, status) {
             return _this.collections.instagram.reset(data.data);

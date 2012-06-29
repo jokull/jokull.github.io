@@ -761,18 +761,26 @@ legend + .control-group {
 .slideshow .carousel nav a.disabled:hover{opacity:0;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0)}
 .slideshow.ready .carousel .slides li{position:absolute;z-index:100;top:0}
 body{color:#111;-webkit-font-smoothing:antialiased;-moz-font-smoothing:antialiased;font-smoothing:antialiased}
-body,input,select,textarea,button{font-family:menlo,courier,monospace}
+header,section#links,section#portfolio,section#photos h2{margin:0 12%}
+body,input,select,textarea,button{font-family:monospace}
+h1,h2,h3,h4,h5{font-family:'Palatino','Palatino Linotype','Georgia',serif}
 a,a:hover,a:active,a:visited{color:#00f}
-#photos{width:800px;}
-#photos li{display:inline;}
-#photos li a{border:0;display:block;margin:0 0 30px 0;}
-#photos li a img{-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px}
-h1{font-size:28px;margin-bottom:14px;font-family:'Palatino','Palatino Linotype','Georgia',serif}
-h2{font-size:21px;margin-bottom:10.5px}
-h3{font-size:18.2px;margin-bottom:9.1px}
-h4,p,li{font-size:14px;margin-bottom:7px;line-height:20px}
-h5{font-size:11.200000000000001px;margin-bottom:5.6000000000000005px}
-.slideshow{position:relative;}
+#links span{color:#999}
+#photos ul{padding:60px 4%;list-style:none;overflow:hidden;}
+#photos ul li{float:left;width:25%;}
+#photos ul li a{display:block;margin:0 10px 20px 10px;}
+#photos ul li a img{-webkit-box-shadow:0 0 0 3px #fff,0 0 0 4px #ccc;-moz-box-shadow:0 0 0 3px #fff,0 0 0 4px #ccc;box-shadow:0 0 0 3px #fff,0 0 0 4px #ccc;width:100%}
+header{position:relative;}
+header img{position:absolute;height:72px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;margin:0 10px 0 0;right:0}
+section{margin-bottom:16px}
+footer{margin:16px 0;text-align:center}
+h1{font-size:36px;margin-bottom:18px}
+h2{font-size:24px;margin-bottom:12px}
+h3{font-size:18px;margin-bottom:9px}
+h4,p,li{font-size:12px;margin-bottom:6px;line-height:16px}
+@media (max-width:800px){#photos ul{padding:20px 4%;}
+#photos ul li{width:50%}
+}.slideshow{position:relative;}
 .slideshow .carousel{position:relative;overflow:hidden;}
 .slideshow .carousel .slides{transition:margin 400ms ease;position:relative;}
 .slideshow .carousel .slides li{display:block;margin:0;}
