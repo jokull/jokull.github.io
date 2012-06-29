@@ -741,25 +741,6 @@ legend + .control-group {
 .form-horizontal .form-actions {
   padding-left: 160px;
 }
-.slideshow{position:relative;}
-.slideshow .carousel{position:relative;overflow:hidden;}
-.slideshow .carousel .slides{-webkit-transition:margin 400ms ease;-moz-transition:margin 400ms ease;transition:margin 400ms ease;position:relative;}
-.slideshow .carousel .slides li{display:block;margin:0;}
-.slideshow .carousel .slides li img{display:block}
-.slideshow .carousel nav a{-webkit-transition:all 600ms ease;-moz-transition:all 600ms ease;transition:all 600ms ease;position:absolute;z-index:200;top:0;background:url("../images/") no-repeat;opacity:.6;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=60)}
-.slideshow .carousel nav a.next{right:30px;width:50%;background-position:100% 50%}
-.slideshow .carousel nav a.previous{left:30px;width:20%;background-position:0% 50%}
-.slideshow .carousel nav a.disabled{opacity:0;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0)}
-.slideshow .carousel nav a.next{background-image:url("../images/arrow-light-next.png")}
-.slideshow .carousel nav a.previous{background-image:url("../images/arrow-light-previous.png")}
-.slideshow .carousel nav.dark a.next{background-image:url("../images/arrow-dark-next.png")}
-.slideshow .carousel nav.dark a.previous{background-image:url("../images/arrow-dark-previous.png")}
-.slideshow nav.slides{position:absolute;z-index:250;bottom:18px;right:20px;opacity:.5;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=50);}
-.slideshow nav.slides a{display:block;float:left;background:url("../images/slideshow-bullet.png") 19px 0;width:19px;height:23px;margin:0 2px 0}
-.slideshow nav.slides a.selected{background-position:0 0}
-.slideshow .carousel nav a:hover{opacity:1;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100)}
-.slideshow .carousel nav a.disabled:hover{opacity:0;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0)}
-.slideshow.ready .carousel .slides li{position:absolute;z-index:100;top:0}
 body{color:#111;-webkit-font-smoothing:antialiased;-moz-font-smoothing:antialiased;font-smoothing:antialiased}
 header,section#links,section#portfolio,section#photos h2{margin:0 12%}
 body,input,select,textarea,button{font-family:monospace}
@@ -780,26 +761,7 @@ h3{font-size:18px;margin-bottom:9px}
 h4,p,li{font-size:12px;margin-bottom:6px;line-height:16px}
 @media (max-width:800px){#photos ul{padding:20px 4%;}
 #photos ul li{width:50%}
-}.slideshow{position:relative;}
-.slideshow .carousel{position:relative;overflow:hidden;}
-.slideshow .carousel .slides{transition:margin 400ms ease;position:relative;}
-.slideshow .carousel .slides li{display:block;margin:0;}
-.slideshow .carousel .slides li img{display:block}
-.slideshow .carousel nav a{transition:all 600ms ease;position:absolute;z-index:200;top:0;background:url("../images/") no-repeat;opacity:.6}
-.slideshow .carousel nav a.next{right:30px;width:50%;background-position:100% 50%}
-.slideshow .carousel nav a.previous{left:30px;width:20%;background-position:0% 50%}
-.slideshow .carousel nav a.disabled{opacity:0}
-.slideshow .carousel nav a.next{background-image:url("../images/arrow-light-next.png")}
-.slideshow .carousel nav a.previous{background-image:url("../images/arrow-light-previous.png")}
-.slideshow .carousel nav.dark a.next{background-image:url("../images/arrow-dark-next.png")}
-.slideshow .carousel nav.dark a.previous{background-image:url("../images/arrow-dark-previous.png")}
-.slideshow nav.slides{position:absolute;z-index:250;bottom:18px;right:20px;opacity:.5;}
-.slideshow nav.slides a{display:block;float:left;background:url("../images/slideshow-bullet.png") 19px 0;width:19px;height:23px;margin:0 2px 0}
-.slideshow nav.slides a.selected{background-position:0 0}
-.slideshow .carousel nav a:hover{opacity:1}
-.slideshow .carousel nav a.disabled:hover{opacity:0}
-.slideshow.ready .carousel .slides li{position:absolute;z-index:100;top:0}
-/* ==|== non-semantic helper classes ========================================
+}/* ==|== non-semantic helper classes ========================================
    Please define your styles before this section.
    ========================================================================== */
 
