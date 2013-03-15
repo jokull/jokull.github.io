@@ -742,9 +742,9 @@ legend + .control-group {
   padding-left: 160px;
 }
 body{color:#111;-webkit-font-smoothing:antialiased;-moz-font-smoothing:antialiased;font-smoothing:antialiased}
-header,section#links,section#portfolio,section#photos h2{margin:0 12%}
+header,section#links,section#portfolio,section#photos h2,section#photos p{padding:0 4%;margin:0 auto;max-width:790px}
 body,input,select,textarea,button{font-family:monospace}
-h1,h2,h3,h4,h5{font-family:'Palatino','Palatino Linotype','Georgia',serif}
+h1,h2,h3,h4,h5{font-family:"ff-tisa-web-pro-1" "ff-tisa-web-pro-2",serif}
 a,a:hover,a:active,a:visited{color:#00f}
 #links span{color:#999}
 #photos ul{padding:60px 4%;list-style:none;overflow:hidden;}

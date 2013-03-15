@@ -61,20 +61,25 @@
     throw new Error('Cannot find module "' + name + '"');
   };
 
-  var define = function(bundle) {
-    for (var key in bundle) {
-      if (has(bundle, key)) {
-        modules[key] = bundle[key];
+  var define = function(bundle, fn) {
+    if (typeof bundle === 'object') {
+      for (var key in bundle) {
+        if (has(bundle, key)) {
+          modules[key] = bundle[key];
+        }
       }
+    } else {
+      modules[bundle] = fn;
     }
-  }
+  };
 
   globals.require = require;
   globals.require.define = define;
+  globals.require.register = define;
   globals.require.brunch = true;
 })();
 
-window.require.define({"application": function(exports, require, module) {
+window.require.register("application", function(exports, require, module) {
   (function() {
     var Aldin, InstagramView, Photo,
       __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },
@@ -185,9 +190,8 @@ window.require.define({"application": function(exports, require, module) {
 
   }).call(this);
   
-}});
-
-window.require.define({"templates/photo": function(exports, require, module) {
+});
+window.require.register("templates/photo", function(exports, require, module) {
   module.exports = function (__obj) {
     if (!__obj) __obj = {};
     var __out = [], __capture = function(callback) {
@@ -252,5 +256,4 @@ window.require.define({"templates/photo": function(exports, require, module) {
     __obj.safe = __objSafe, __obj.escape = __escape;
     return __out.join('');
   }
-}});
-
+});
