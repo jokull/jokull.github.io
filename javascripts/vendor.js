@@ -37,28 +37,29 @@
     return function(name) {
       var dir = dirname(path);
       var absolute = expand(dir, name);
-      return globals.require(absolute);
+      return globals.require(absolute, path);
     };
   };
 
   var initModule = function(name, definition) {
     var module = {id: name, exports: {}};
+    cache[name] = module;
     definition(module.exports, localRequire(name), module);
-    var exports = cache[name] = module.exports;
-    return exports;
+    return module.exports;
   };
 
-  var require = function(name) {
+  var require = function(name, loaderPath) {
     var path = expand(name, '.');
+    if (loaderPath == null) loaderPath = '/';
 
-    if (has(cache, path)) return cache[path];
+    if (has(cache, path)) return cache[path].exports;
     if (has(modules, path)) return initModule(path, modules[path]);
 
     var dirIndex = expand(path, './index');
-    if (has(cache, dirIndex)) return cache[dirIndex];
+    if (has(cache, dirIndex)) return cache[dirIndex].exports;
     if (has(modules, dirIndex)) return initModule(dirIndex, modules[dirIndex]);
 
-    throw new Error('Cannot find module "' + name + '"');
+    throw new Error('Cannot find module "' + name + '" from '+ '"' + loaderPath + '"');
   };
 
   var define = function(bundle, fn) {
@@ -73,12 +74,22 @@
     }
   };
 
+  var list = function() {
+    var result = [];
+    for (var item in modules) {
+      if (has(modules, item)) {
+        result.push(item);
+      }
+    }
+    return result;
+  };
+
   globals.require = require;
   globals.require.define = define;
   globals.require.register = define;
+  globals.require.list = list;
   globals.require.brunch = true;
 })();
-
 // Make it safe to do console.log() always.
 (function (con) {
   var method;
@@ -90,8 +101,8 @@
     con[method] = con[method] || dummy;
   }
 })(window.console = window.console || {});
-;
-/* Zepto v1.0rc1 - polyfill zepto event detect fx ajax form touch - zeptojs.com/license */
+
+;/* Zepto v1.0rc1 - polyfill zepto event detect fx ajax form touch - zeptojs.com/license */
 ;(function(undefined){
   if (String.prototype.trim === undefined) // fix for iOS 3.2
     String.prototype.trim = function(){ return this.replace(/^\s+/, '').replace(/\s+$/, '') }
@@ -1445,8 +1456,8 @@ window.Zepto = Zepto
   ;['swipe', 'swipeLeft', 'swipeRight', 'swipeUp', 'swipeDown', 'doubleTap', 'tap', 'singleTap', 'longTap'].forEach(function(m){
     $.fn[m] = function(callback){ return this.bind(m, callback) }
   })
-})(Zepto);
-//     Underscore.js 1.3.3
+})(Zepto)
+;//     Underscore.js 1.3.3
 //     (c) 2009-2012 Jeremy Ashkenas, DocumentCloud Inc.
 //     Underscore is freely distributable under the MIT license.
 //     Portions of Underscore are inspired or borrowed from Prototype,
@@ -2504,8 +2515,8 @@ window.Zepto = Zepto
     return this._wrapped;
   };
 
-}).call(this);;
-//     Backbone.js 0.9.2
+}).call(this);
+;//     Backbone.js 0.9.2
 
 //     (c) 2010-2012 Jeremy Ashkenas, DocumentCloud Inc.
 //     Backbone may be freely distributed under the MIT license.
@@ -3935,8 +3946,8 @@ window.Zepto = Zepto
     throw new Error('A "url" property or function must be specified');
   };
 
-}).call(this);;
-/*!
+}).call(this);
+;/*!
  * Modernizr v2.5.3
  * www.modernizr.com
  *
@@ -5201,4 +5212,5 @@ window.Modernizr = (function( window, document, undefined ) {
     return Modernizr;
 
 })(this, this.document);
+
 ;

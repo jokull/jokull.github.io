@@ -741,27 +741,112 @@ legend + .control-group {
 .form-horizontal .form-actions {
   padding-left: 160px;
 }
-body{color:#111;-webkit-font-smoothing:antialiased;-moz-font-smoothing:antialiased;font-smoothing:antialiased}
-header,section#links,section#portfolio,section#photos h2,section#photos p{padding:0 4%;margin:0 auto;max-width:790px}
-body,input,select,textarea,button{font-family:monospace}
-h1,h2,h3,h4,h5{font-family:"ff-tisa-web-pro-1" "ff-tisa-web-pro-2",serif}
-a,a:hover,a:active,a:visited{color:#00f}
-#links span{color:#999}
-#photos ul{padding:60px 4%;list-style:none;overflow:hidden;}
-#photos ul li{float:left;width:25%;}
-#photos ul li a{display:block;margin:0 10px 20px 10px;}
-#photos ul li a img{-webkit-box-shadow:0 0 0 3px #fff,0 0 0 4px #ccc;-moz-box-shadow:0 0 0 3px #fff,0 0 0 4px #ccc;box-shadow:0 0 0 3px #fff,0 0 0 4px #ccc;width:100%}
-header{position:relative;}
-header img{position:absolute;height:72px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;margin:0 10px 0 0;right:0}
-section{margin-bottom:16px}
-footer{margin:16px 0;text-align:center}
-h1{font-size:36px;margin-bottom:18px}
-h2{font-size:24px;margin-bottom:12px}
-h3{font-size:18px;margin-bottom:9px}
-h4,p,li{font-size:12px;margin-bottom:6px;line-height:16px}
-@media (max-width:800px){#photos ul{padding:20px 4%;}
-#photos ul li{width:50%}
-}/* ==|== non-semantic helper classes ========================================
+
+body {
+  color: #111;
+  -webkit-font-smoothing(): antialiased;
+  -moz-font-smoothing(): antialiased;
+  -o-font-smoothing(): antialiased;
+  -ms-font-smoothing(): antialiased;
+  -webkit-font-smoothing: antialiased;
+}
+header,
+section#links,
+section#portfolio,
+section#photos h2,
+section#photos p {
+  padding: 0 4%;
+  margin: 0 auto;
+  max-width: 790px;
+}
+body,
+input,
+select,
+textarea,
+button {
+  font-family: monospace;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "ff-tisa-web-pro-1" "ff-tisa-web-pro-2", serif;
+}
+a,
+a:hover,
+a:active,
+a:visited {
+  color: #00f;
+}
+#links span {
+  color: #999;
+}
+#photos ul {
+  padding: 60px 4%;
+  list-style: none;
+  overflow: hidden;
+}
+#photos ul li {
+  float: left;
+  width: 25%;
+}
+#photos ul li a {
+  display: block;
+  margin: 0 10px 20px 10px;
+}
+#photos ul li a img {
+  -webkit-box-shadow: 0 0 0 3px #fff, 0 0 0 4px #ccc;
+  box-shadow: 0 0 0 3px #fff, 0 0 0 4px #ccc;
+  width: 100%;
+}
+header {
+  position: relative;
+}
+header img {
+  position: absolute;
+  height: 72px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  margin: 0 10px 0 0;
+  right: 0;
+}
+section {
+  margin-bottom: 16px;
+}
+footer {
+  margin: 16px 0;
+  text-align: center;
+}
+h1 {
+  font-size: 36px;
+  margin-bottom: 18px;
+}
+h2 {
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+h3 {
+  font-size: 18px;
+  margin-bottom: 9px;
+}
+h4,
+p,
+li {
+  font-size: 12px;
+  margin-bottom: 6px;
+  line-height: 16px;
+}
+@media (max-width:800px) {
+  #photos ul {
+    padding: 20px 4%;
+  }
+  #photos ul li {
+    width: 50%;
+  }
+}
+
+/* ==|== non-semantic helper classes ========================================
    Please define your styles before this section.
    ========================================================================== */
 
@@ -807,3 +892,4 @@ h4,p,li{font-size:12px;margin-bottom:6px;line-height:16px}
   p, h2, h3 { orphans: 3; widows: 3; }
   h2, h3 { page-break-after: avoid; }
 }
+
