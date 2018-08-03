@@ -3,6 +3,9 @@ body {
     padding: 50px 0;
     background: url(background.svg);
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
 }
 
 a {
@@ -15,7 +18,7 @@ a:hover {
 }
 
 header, footer, div.page {
-    max-width: 700px;
+    max-width: 640px;
     margin: 0 auto;
     padding: 20px 20px;
 }
@@ -102,4 +105,10 @@ hr {
     border: 0;
     width: 80%;
     margin: 40px auto;
+}
+
+@media only screen and (max-width: 600px) {
+    blockquote {
+        margin: 0 12px;
+    }
 }
