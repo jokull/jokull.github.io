@@ -6,11 +6,12 @@ body {
 }
 
 a {
-    color: #222;
+    color: #111;
+    text-decoration: none;
 }
 
 a:hover {
-    color: #888;
+    color: blue;
 }
 
 header, footer, div.page {
@@ -30,7 +31,8 @@ header h1 {
 }
 
 header h1 a {
-    color: blue;
+    color: black;
+    border-bottom: 4px solid blue;
 }
 
 header .social {
@@ -88,6 +90,10 @@ div.page {
 .blog-post blockquote, .blog-post .meta {
     font-family: times;
     font-style: italic;
+}
+
+.blog-post-body a {
+    text-decoration: underline;
 }
 
 hr {
