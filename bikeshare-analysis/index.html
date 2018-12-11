@@ -1,0 +1,381 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../static/style.css">
+<title>Viability of a Dockless e-Bike Fleet Operation in Reykjavík — Jökull Sólberg</title>
+<body>
+  <header>
+    <h1>
+      <a href="../">Jökull Sólberg</a>
+      <a href="mailto:jokull@solberg.is"></a>
+    </h1>
+    <div class="social">
+      <a href="https://twitter.com/jokull"><img src="/static/twitter.svg"></a>
+      <a href="https://instagram.com/jokull"><img src="/static/instagram.svg"></a>
+    </div>
+  </header>
+  <div class="page">
+    
+  
+  <div class="blog-post">
+  
+    <h2>Viability of a Dockless e-Bike Fleet Operation in Reykjavík</h2>
+    <p class="meta">
+      11. desember 2018
+    </p>
+    <div class="blog-post-body">
+      <style>
+.caption { margin: 2em 0 1em; }
+.caption p { font-size: x-small; text-align: right; color: rgba(0,0,0,0.4); }
+.shadow-img { box-shadow: 0 0 20px rgba(0,0,0,0.2); }
+table { 
+  border: 1px solid rgba(0,0,0,#ccc); 
+  background: white;
+  width: 100%; 
+  font-family: monospace;
+  font-size: 11pt;
+  font-variant-numeric: lining-nums tabular-nums;
+  padding: 0.3em 0;
+}
+td, th {
+  padding: 0.125em 0.5em 0.25em 0.5em;
+  line-height: 1;
+}
+</style><p>This paper is an investigation of the viability and scale potential of operating a privately owned fleet of electric bikes in a dockless system, wherein users locate available bikes with an app and pay per trip.</p>
+<p>I conclude that not only is the global urban mobility sector being disrupted by a propagation of LEV’s (light electric vehicles) but that a local e-bike fleet operation in Reykjavík is cash flow positive within 12 months and can grow to 250 to 400 bikes and a valuable business within three years.</p>
+<h2>Mobility in Reykjavík</h2>
+<p>Urban mobility in Reykjavík is dominated by personal cars accounting for 73% of all trips according to survey data from September 2018<sup class="footnote-ref" id="fnref-modal-split-rvk"><a href="#fn-modal-split-rvk">1</a></sup>. In a Eurostat 2017 survey Levkosia in Cyprus was the only other European city where the modal share of cars was above 75%<sup class="footnote-ref" id="fnref-modal-split-eu"><a href="#fn-modal-split-eu">2</a></sup>. In large cities in the EU, 49% of people use public transport to commute. In Reykjavík the share of trips using public transport is only 4%. The share of bike trips has however grown nine-fold since 2002 and accounts for 7.0% of all trips, according to the modal split survey from September 2018.</p>
+<p>The city faces mobility, environmental and health problems due to heavy, dense and slowing car traffic<sup class="footnote-ref" id="fnref-mannvit-umferdarspa"><a href="#fn-mannvit-umferdarspa">3</a></sup>. It intends to solve by investing in a higher-service public transport option and more biking infrastructure. Steps have been taken by city authorities in the capital area to develop public transport with more carrying capacity between the key urban centers across Hafnarfjörður, Seltjarnarnes, Kópavogur and Reykjavík. Construction of priority bus lanes is expected to begin in 2019 ("Bus Rapid Transit")<sup class="footnote-ref" id="fnref-ssh-tillogur"><a href="#fn-ssh-tillogur">4</a></sup>.</p>
+<p>The City of Reykjavík is investing 240m to 250m ISK a year on bike paths<sup class="footnote-ref" id="fnref-reykjavik-bike-paths-budget"><a href="#fn-reykjavik-bike-paths-budget">5</a></sup>. The amount of bike paths put down is not available, but according to my sources this data will be put together soon by the city.</p>
+<h2>Micromobility</h2>
+<p>The term "micromobility" has been used to refer to the adoption of light electric vehicle technology. A key analyst of the sector, and coiner of the term is Horace Dediu (@asymco on Twitter). His definition of the segment is vehicles weighing up to 500 kg. I will refer to vehicles fitting this description as LEV’s (light electric vehicles). Micromobility refers to the disruptive technology where LEV’s are coupled with fleet operations and rental models leveraging smartphone technology.</p>
+<h3>Physics</h3>
+<p>The physics of LEV’s are key to their disruptive potential. Compared to cars, LEV’s are less safe, less comfortable, slower, have less range, have slower max speeds and are less powerful. But they are improving rapidly and currently serve a segment ignored by incumbents; the low end. These are all classic traits of disruptive technology. Let’s take a closer look at their transport fundamentals.</p>
+<p>The power output of a "healthy male" during an hour of cycling exercise is 200W. A an e-bike with motor output of 250W would double the total power output<sup class="footnote-ref" id="fnref-bike-power-output"><a href="#fn-bike-power-output">6</a></sup>. Because the vehicle is light compared to its power output, and because the aerodynamic resistance doesn’t impact slow speeds, the vehicle is extremely efficient at transporting a rider.</p>
+<p>Cars on the other hand are inefficient because they are heavy compared to their payload. The weight is incurred because of its comfort, safety, all-weather design and supporting very high speeds with passengers with structures and features to minimise damage of impact to passengers at speeds exceeding 90 km/h. A significant number of trips don’t ever exceed 50 km/h or carry more than one passenger however, but the car is designed for flexible jobs. The energy required to power a 1,500 kg vehicle is significant. It must either use imported energy dense liquid fuel or extremely large batteries. The Tesla Model 3 has a base configuration battery weighing 480 kg with a range of 350 km. A high range e-bike battery pack weighs only 4.8 kg but has a single charge range of 180 km. <em>That’s half the range at a hundredth of the weight.</em></p>
+<p>Not only are LEV’s efficient vehicles, but the road infrastructure can pack much higher bandwidth of transport per square meter of land. The roads are narrower, cost much less to construct (only 1/10th by some estimates) but have higher transport bandwidth still. One estimate is 2,000 cars vs 14,000 cycles on narrower lanes<sup class="footnote-ref" id="fnref-guardian-bike-lanes"><a href="#fn-guardian-bike-lanes">7</a></sup>.</p>
+<h3>Hardware</h3>
+<p>The three most common vehicles in dockless micromobility fleets are bikes, e-bikes and scooters.</p>
+<p>Lime and Bird are companies that have popularized the usage of scooters in many US cities. Scooters are controversial and the fleet operators, who are heavily VC funded, are still grappling with unit economics. On the other hand, many cities are embracing them and user adoption is ramping up.</p>
+<p>Design iteration cycles for LEV’s are very short. The time between Lime gen 2 scooters<sup class="footnote-ref" id="fnref-lime-gen-2"><a href="#fn-lime-gen-2">8</a></sup> and gen 3 was six months<sup class="footnote-ref" id="fnref-lime-gen-3"><a href="#fn-lime-gen-3">9</a></sup>. A traditional car goes from "concept phase to sales floor" in 2-5 years.</p>
+<p>Examples of the dimensions of improvement for LEV’s in the past 12 months:</p>
+<ul>
+<li>durability to increase lifespan and reduce maintenance cost,</li>
+<li>comfort of ride (better wheels, suspension and braking systems, brighter displays etc.),</li>
+<li>core component upgrades such as increased battery density and motor innovations,</li>
+<li>finish and design (cabling, materials etc.).</li>
+</ul>
+<p>The estimated vehicle lifetime of the scooters from Ninebot operated by Lime and Bird are hard to pin down, perhaps as it is still not determined by operators and varies by city (the newest vehicle model is only a few months old). Three key factors affect lifetime: build quality, vandalism and theft rates. It has been reported that heavier vehicles experience lower vandalism and theft rates (presumably because they are more difficult to carry around by a human).</p>
+<p>Pedelecs are a fast growing segment of micromobility both in fleets and retail. Pedelec e-bikes use torque sensors to inject additional power as the rider applies their own power to the pedals. The torque sensors are tweaked for an intuitive rider experience to simulate what can be described as a "superpower" of the user. This makes the bike intuitive in operation as it rides much like a regular bike, just faster.</p>
+<p>Pedelecs are classifed according to power output with two categories.</p>
+<table>
+<thead><tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">Power</th>
+<th style="text-align:left">EU Class</th>
+<th style="text-align:left">Iceland Class</th>
+<th style="text-align:left">Speed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Pedelec</td>
+<td style="text-align:left">250w maximum</td>
+<td style="text-align:left">L1e-A</td>
+<td style="text-align:left">Létt bifhjól flokkur 1</td>
+<td style="text-align:left">25km/h max</td>
+</tr>
+<tr>
+<td style="text-align:left">S-Pedelec</td>
+<td style="text-align:left">250w+</td>
+<td style="text-align:left">L1e-B</td>
+<td style="text-align:left">Létt bifhjól flokkur 2</td>
+<td style="text-align:left">45km/h max</td>
+</tr>
+</tbody>
+</table>
+<p>*I will refer to s-pedelecs or pedelecs.</p>
+<p>The two categories of pedelecs are both growing segments in retail sectors (where bikes are intended for private ownership, not fleet management). In Holland, one of the most mature s-pedelec markets I project sales to have grown by 20% in 2018 based on reported sales volume for January to November, at 2405 units already sold for that period<sup class="footnote-ref" id="fnref-s-pedelec-sales"><a href="#fn-s-pedelec-sales">10</a></sup>.</p>
+<p>Manufacturers of motors suitable for pedelecs are expanding, with car component manufacturers jumping into the segment (General Motors, Brose, ZF). Industry research indicates 6% annual growth of e-bike motors<sup class="footnote-ref" id="fnref-pedelec-motor-growth"><a href="#fn-pedelec-motor-growth">11</a></sup>.</p>
+<p>Beyond s-pedelecs are e-mopeds; vehicles that may find strong markets where mopeds are already popular. There are many cross-category experiments and innovative three-wheeler designs within the LEV segment. If vehicles are rented for single trips, each vehicle has the potential to be customized for that specific job — with different cargo options, safety features, sheltering and comfort features.</p>
+<h3>Service</h3>
+<p>Although the retail segment for LEV’s is growing, most of the growth is with per-ride rentals operating dockless fleets of electric scooters, bikes and e-bikes. The dockless technology, wherein users locate and unlock bikes using an app, was invented in China. Lime, the largest fleet operator of LEV’s is reported to be the fastest growing company in the history of business. Both Uber and Lyft have invested in dockless fleet operators and integrated LEV options into their core offering.</p>
+<p>LEV’s are slim and compact but can still burden cities if the concentration of vehicles is too high. Many cities have adopted a system of rental permits to allow only a capped number of vehicles deployed. Some cities, namely in China, were initially slow to react to the adoptions of dockless bikes and became victim to a volume war between providers. Fleet operators tried to pump trip numbers by increasing the density of low-cost vehicles. Such dynamics are no longer playing out with higher unit cost of electric vehicles and city permits with managed fleet sizes.</p>
+<p>To assess health of fleets cities and investors should look at:</p>
+<ul>
+<li>Trips per day per vehicle (TDV)</li>
+<li>Maintenance cost</li>
+<li>Vehicle lifetime</li>
+<li>Trip distance average and distribution</li>
+</ul>
+<p>Cities also want to ensure vehicles are in good shape and don’t become "zombies" when they get dropped off in low-demand areas. They may also want to ensure or monitor a service threshold for areas that are underserved by public transport.</p>
+<h3>Market</h3>
+<p>What trips are micromobility solutions competing for? A research paper using eight months of trip data from one of the few s-pedelec dockless operators, Smide in Zurich, reveals some interesting insights<sup class="footnote-ref" id="fnref-smide-research"><a href="#fn-smide-research">12</a></sup>.</p>
+<div class="caption">
+  <img src="./modality-split-zurich.png" class="shadow-img">
+  <p>Distribution of trip distances compared. The figure shows median, and the upper/lower quartiles. <a href="https://www.slideshare.net/asymco/when-micromobility-attacks">Source</a>.</p>
+</div><p>Smide’s s-pedelecs compete with public transport, other electric bikes, regular bikes and a good amount of private car trips. Zurich has a very high penetration of public transport trips, so in Reykjavík car trips probably have a lower boundary in the distance quartiles, meaning s-pedelecs can potentially service more car trips in Reykjavík, and fewer public transport trips.</p>
+<p>Smide has reported on Twitter that since this research was published their fleet now gets more utility per vehicle and covers longer distances<sup class="footnote-ref" id="fnref-smide-twitter"><a href="#fn-smide-twitter">13</a></sup>. This means they are eating even further into Zurich car trip distances.</p>
+<p>Significant adoption increase during the period of data sampled, and the fact that it was only for the period of April to November, means that seasonality could not be assessed.</p>
+<p>Micromobility will induce new demand by introducing new trips. I have identified a few factors with potential to induce new demand:</p>
+<ul>
+<li>Joyrides: trips on fast bicycles are enjoyable, social and fun</li>
+<li>Ownership: access to infrastructure mainly intended for heavier vehicles is now available to all, not just to those who own a car or a motorbike</li>
+<li>Logistics: the ability to be able to leave the vehicle behind and only complete one leg of a trip, can encourage people to complete more trips (for example if you want to consume alcohol at the destination, you only need one taxi ride, not two)</li>
+</ul>
+<p>However ... we must acknowledge that converting someone who has already purchased a "bundle" of trips upfront by acquiring a car for private use is difficult except for one-off trips where a rented single-trip vehicle works better. Households with a car at their disposal will in most cases opt for this vehicle for their trips for as long as that vehicle is available.</p>
+<p>Micromobility helps delay or avoid car ownership, especially for secondary vehicles at a household. These trends are not observable today because it’s still early days, but they are already observable in cities where public transport, or bike friendliness is correlated with fewer cars per household.</p>
+<p>Few city municipalities have conducted thorough modality shift studies after large dockless e-bike deployments. This would give concrete evidence of the benefits, and how many car trips cities can expect to convert to bike trips. A questionnaire from The Portland Bureau of Transportation suggests that 34% of scooter trips replaced car trips<sup class="footnote-ref" id="fnref-portland-scooter-questionnaire"><a href="#fn-portland-scooter-questionnaire">14</a></sup>, a promising indicator.</p>
+<p>UBER has shared preliminary data of modal shifts after introducing the Jump e-bikes as an option (10% shifting from car trips to cycling-only trips), and Mobike has published surveys from their user base in Shanghai where people claim to be switching from car to bike trips. These statistics are not as concrete as city modal data based on real life measurements however.</p>
+<p><strong>Reykjavík Market</strong></p>
+<p>One way to look at the current addressable market in Reykjavík is to consider single-passenger trips in urban settings below 10 km in total trip length with only one occupant.</p>
+<p>The number of car trips per day in the Reykjavík capital region is in the excess of 850,000[^mannvit-umferdarspa]. According to data from The US Federal Highway Administration nearly two-thirds of car trips are under 10km (57.6% of car trips are under 8 km long<sup class="footnote-ref" id="fnref-car-trip-distance"><a href="#fn-car-trip-distance">15</a></sup>). I have not been able to come by distance distribution data in the capital region. In a 2010 UK survey the rate of commute-or-business related car trips with only one occupant was 86%<sup class="footnote-ref" id="fnref-uk-vehicle-occupancy"><a href="#fn-uk-vehicle-occupancy">16</a></sup>.</p>
+<p>An estimate based on these numbers gives us 450,000 car trips per day — i.e. trips under 10km distance with a single occupant traveling within the capital area.</p>
+<p>In short: Adoption of LEV’s is tremendous and early indicators showing switching away from cars are promising.</p>
+<h2>Concept</h2>
+<p>I propose an initial fleet size of 50 s-pedelecs in a geofenced service area, the virtual identified service zone where the bikes must be returned by users, between Elliðaárdálur (Breiðholt excluded), Hamraborg (Kópavogur excluded) and Seltjarnarnes (Vesturbær included, Seltjarnarnes excluded). This is a densely populated area and includes many of the largest workplaces in Iceland.</p>
+<p>Available bikes can be located in an app that is freely available to both locals and tourists.</p>
+<p>Riders are insured by the fleet operator for every ride. They are required to have a license to operate Category II vehicles (a normal driver’s license will do). They are required to wear a helmet which comes with the bike.</p>
+<p>I expect gradual adoption during the first 12 months and heavy seasonality. I expect to expand to 200 bikes in the second year and 250-400 in the third. Seasonality is expected to push from monthly average lows of 5 trips per day to peaks of 12 trips per day. Average trip length is just over 5 minutes. The trip usage is based on the experience of Smide in Zurich. A representative from Stromer, the bike supplier, has verbally confirmed my calculations of trip seasonality and volume.</p>
+<p>The proposed fleet performs 3,700 trips per day at scale of 400 bikes. That is close to 1% of single occupant short car trips and 10% of current bike trips per day.</p>
+<p>According to a Smide representative, their Stromer bikes in Zurich last <em>four years at an average of eight trips per day per bike</em>. Smide was started in 2015, whereas Lime was founded in 2017, so they have real world experience. They claim low vandalism and theft rates. In Reykjavík the WOW bike representatives have also reported zero vandalism cases. There is reason to believe Reykjavík is a city supportive of low theft and vandalism rates.</p>
+<p>According to a Stromer sales rep a fleet operator should assume about one mechanic for every 200 bikes to handle maintenance and repairs. One other full time staff rebalances the fleet, relocates bikes from low demand to high demand areas using a dispatch van. An outfitted bike workshop with staff facilities is needed to service hardware and charge batteries during the night.</p>
+<p>Stromer claims that the overcapacity of batteries needs to be around 25%. The range of batteries is 100 km and need to be charged every 2-4 days depending on use (usually due to seasonality). Battery swaps are done by charging standalone batteries during the night and shipping warm batteries out during the day to swap cold batteries for warm ones. The Stromer bikes have swappable batteries locked and unlocked with a physical key.</p>
+<div class="caption">
+  <img src="./stromer.png" alt="Stromer ST2 Bike" class="shadow-img">
+  <p>Stromer ST2 Bike, similar or same as intended fleet bikes.</p>
+</div><h3>Service Area</h3>
+<p>Included in phase 1 (50 bikes)</p>
+<table>
+<thead><tr>
+<th style="text-align:left">Neighborhood</th>
+<th style="text-align:left">Area km²</th>
+<th style="text-align:left">Population</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Vesturbær</td>
+<td style="text-align:left">2.9</td>
+<td style="text-align:left">15,703</td>
+</tr>
+<tr>
+<td style="text-align:left">Miðborg</td>
+<td style="text-align:left">3.6</td>
+<td style="text-align:left">8,618</td>
+</tr>
+<tr>
+<td style="text-align:left">Hlíðar</td>
+<td style="text-align:left">3.3</td>
+<td style="text-align:left">9,612</td>
+</tr>
+<tr>
+<td style="text-align:left">Laugardalur</td>
+<td style="text-align:left">6.4</td>
+<td style="text-align:left">15,239</td>
+</tr>
+<tr>
+<td style="text-align:left">Háaleiti og Bústaðir</td>
+<td style="text-align:left">4.3</td>
+<td style="text-align:left">13,755</td>
+</tr>
+<tr>
+<td style="text-align:left">—</td>
+<td style="text-align:left"><strong>17.2</strong></td>
+<td style="text-align:left"><strong>62,927</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Excluded in phase 1 (50 bikes)</p>
+<table>
+<thead><tr>
+<th style="text-align:left">Neighborhood</th>
+<th style="text-align:left">Area km²</th>
+<th style="text-align:left">Population</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Breiðholt</td>
+<td style="text-align:left">5.5</td>
+<td style="text-align:left">20,646</td>
+</tr>
+<tr>
+<td style="text-align:left">Árbær</td>
+<td style="text-align:left">6.1</td>
+<td style="text-align:left">10,192</td>
+</tr>
+<tr>
+<td style="text-align:left">Grafarvogur</td>
+<td style="text-align:left">14.0</td>
+<td style="text-align:left">18,130</td>
+</tr>
+<tr>
+<td style="text-align:left">Kjalarnes</td>
+<td style="text-align:left">61.7</td>
+<td style="text-align:left">834</td>
+</tr>
+<tr>
+<td style="text-align:left">Grafarholt og Úlfarsárdalur</td>
+<td style="text-align:left">22.5</td>
+<td style="text-align:left">5,416</td>
+</tr>
+<tr>
+<td style="text-align:left">—</td>
+<td style="text-align:left"><strong>109.8</strong></td>
+<td style="text-align:left"><strong>55,218</strong></td>
+</tr>
+</tbody>
+</table>
+<div class="caption">
+  <img src="./service-area.png" alt="Reykjavík geofence" class="shadow-img">
+  <p>Image shows density of building square meters per hectare of land. Data from ssh.is. The phase 1 geofence is the green area. <a href="http://www.ssh.is/husnaedi/thettleiki">Source</a>.</p>
+</div><p>This area includes many large hotels and tourist accomodation. This is also an area with many large employers and workplaces.</p>
+<p>The capital area includes these connect municipalities which are potentially included with a single dockless fleet in later phases.</p>
+<table>
+<thead><tr>
+<th style="text-align:left">Municipality</th>
+<th style="text-align:left">Population</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Kópavogur</td>
+<td style="text-align:left">33.430</td>
+</tr>
+<tr>
+<td style="text-align:left">Hafnarfjörður</td>
+<td style="text-align:left">27.960</td>
+</tr>
+<tr>
+<td style="text-align:left">Garðabær</td>
+<td style="text-align:left">14.440</td>
+</tr>
+<tr>
+<td style="text-align:left">Mosfellsbær</td>
+<td style="text-align:left">9.350</td>
+</tr>
+<tr>
+<td style="text-align:left">Seltjarnarnes</td>
+<td style="text-align:left">4.410</td>
+</tr>
+</tbody>
+</table>
+<h3>Usage</h3>
+<p>The financial model is sensitive to fleet investment cost, the TDV (trips per day per vehicle) and average trip time length. Bike investment is around 1m ISK per vehicle and based on various sources I have confirmed that TDV for Stromer in Zurich is between 3 and 9 depending on climate, with rain having more impact than snow.</p>
+<div class="caption">
+  <img src="./smide-usage.png" class="shadow-img">
+  <p>Image shows Smide usage distribution over days, trip time lengths and weekdays.</p>
+</div><h3>Finance</h3>
+<p>I have put the annual average at 5 trips per day, with a linear 12 month adoption curve.</p>
+<ul>
+<li>Pay as you go: 80 ISK per minute</li>
+<li>Subscription: 12,000 ISK per month (includes 20 minutes riding per day)</li>
+</ul>
+<p>At 5 trips per day revenue per bike is 96,000 ISK per month. The vehicle lifetime is around 4 years, or 4.6m ISK. Credit card fees are around 3%. The vehicles and its riders are legally required to be insured, a cost incured by the operator. Insurance must be negotiated, but should not exceed that of a car (my estimate is 50,000 a year per vehicle). This gives us net annual revenue flow from vehicles of 3.419.760 ISK, but doesn’t cover servicing or replacement vehicles in the case of damage beyond repair.</p>
+<p>Usage and vehicle lifetime are of course dependent variables.</p>
+<p><strong>Projections</strong></p>
+<p>Initial capital expenses: 41m ISK bikes + 5m ISK other
+Operating cost: 5.3m ISK per month</p>
+<p>First year: 49m ISK revenue, 118m ISK cost (50 bikes, 72m loss)<br>
+Second year: 263m ISK revenue, 188m ISK cost (200 bikes, 71m profit)</p>
+<p><strong>Planned financing</strong></p>
+<p>Somehow I will need to finance the bike investment — either through prepaid servicing contracts with employers, or with some kind of debt financing. The investment of 50 Stromers pedelecs along with extra batteries and import fees is estimated at 75m ISK.</p>
+<p>When all bikes are financed I intend to sell a 20% equity stake in return for 75m ISK. This brings total financing to ~150m ISK.</p>
+<p>I don’t expect to be able to raise funds from venture capital funds in Iceland since this venture is not yet with global applications, is not unique and has no protectable intellectual property. Investors with local ambitions are more likely to consider the opportunity, especially ones eager to learn about developments in mobility and urban services.</p>
+<p>Loftslagssjóður and RANNÍS grants have yet to be researched and assessed.</p>
+<h2>Competition</h2>
+<p>WOW air operates, in partnership with Reykjavík, a docked non-electric bike rental. The fleet size is 100 bikes in eight stations. No bikes have been lost and vandalism has been minimal according to operator reports. In the month of August, their busiest month, there were 2,600 trips recorded—a 10% increase from August in the previous year. This is less than one trip per bike per day but similar docked non-electric bike systems in achieve 2.5 to 5.3 rides per day per bike<sup class="footnote-ref" id="fnref-nacto-trips-per-bike"><a href="#fn-nacto-trips-per-bike">17</a></sup>.</p>
+<p>It is suspected, from sampling data from the WOW air fleet, that stations are not just too few and far apart, but are not being rebalanced during the day. This means there are frequently either full stations at intended destinations or empty stations at the departure point. Bikes must be returned within 30 minutes of initiating the ride without incurring additional charges, a policy designed to incentives shorter rides, but this may be impractical since full stations cannot be relied upon for bike returns.</p>
+<p>The expectation is to get 10x as many rides per bike as WOW at comparable prices (WOW air bikes are 350 ISK per ride). This is due to</p>
+<ul>
+<li>shorter distance to bike</li>
+<li>superior comfort and speed</li>
+<li>ability to park closer to trip destination</li>
+<li>larger servicing area</li>
+</ul>
+<p>Ultimately the real competition in the capital area is car ownership.</p>
+<h2>Regulation</h2>
+<p>The transport vehicle regulation for LEV’s is similar to that of many EU nations. It separates light motor powered vehicles into two categories based on power output and maximum allowed vehicle speed:</p>
+<ul>
+<li>Category I ("Létt bifhjól í flokki I"): 250w max motor power output and 25km/h top speed. These vehicles do not require license plates or registration and are allowed both in traffic, sidewalks and cycling infrastructure.</li>
+<li>Category II ("Létt bifhjól í flokki II"): Vehicles exceeding 250w power output with a 45km/h top speed. The vehicles are not allowed on bicycle paths or pedestrian sidewalks. (In Europe the classification is "L1e-B vehicles"). </li>
+</ul>
+<p>Reykjavík City has been very receptive to the idea of Category II vehicles in a dockless fleet.</p>
+<h3>FAQ’s</h3>
+<p><strong>Why dockless?</strong></p>
+<p>I see dockless free floating fleets as an iteration and improvement upon the docked fleets, not an alternative. Dockless bikes do not require land provisions from the city, allow more pickup points close to the customer, and allow the customer to park much closer to their destination. The growth of dockless fleets is much faster and the bikes get more trips per day.</p>
+<p><strong>Why s-pedelec (category II e-bike)?</strong></p>
+<p>Electrification is rapid and justified by unit economics. Electric fleets are achieving more rides per day per bike which more than justifies the capital requirements.</p>
+<p>The scooter wars between Bird and Lime are happening in cities where the modal split for bikes is only around 1%. The scooters are not taking away car trips but letting people "walk faster" shorter distances. In Los Angeles survey data reveals that</p>
+<p>Category II vehicles are not allowed on bike paths and walkways — those are intended for traffic up to but not exceeding 25 km/h. This makes it hard to compete in distance and speed with cars and public transport. My proposal is to look at the bike not as a bike, but simply as a user friendly vehicle in Category II, intended to use among cars on 30 km and 50 km infrastructure. This is the infrastructure that receives the most funding and has the most bandwidth today. Later it is easy to imagine regulation change where a "third" micromobility "green" lane will be used for mixed LEV traffic and bikers who like to go fast.</p>
+<p>What about larger LEV’s? One other vehicle could be interesting in Reykjavík; a bulkier e-moped. These vehicles are popular in many cities already, but not in Reykjavík. I believe s-pedelecs, as counterintuitive as it is to exclude a bike from shared sidewalks and bike infrastructure, is basically an e-moped in disguise. Already many experienced bike people are preferring to ride in traffic. The increase to almost-double-digit modal split of bikes is a trend I want to ... ride.</p>
+<p><strong>Why Stromer?</strong></p>
+<p>Stromer bikes have integrated GPS and GSM hardware, along with a contracted SIM card to make the vehicle <em>globally trackable via the manufacturer</em>. This means the bikes are "fleet ready" from the manufacturer and can easily be integrated into transport apps such as Transit or Moovel. The upfront integration cost is therefore much lower.</p>
+<p>The vehicles are about 3-4x as expensive as Chinese bikes of similar power, but Stromer is the only bike the comes with an API to locate and communicate with the bike motor; an API that can be used to lock, unlock, collect data and set configurations per-ride such as max speed. So the integration cost is simply bundled into the bike cost. Since this is a small fleet it is better to de-risk the investment, minimise development cost and use Stromer bikes.</p>
+<p>There are other s-pedelecs but they don’t have a service layer that fleets can leverage included. For regular 250W pedelecs there exist startups such as Superpedestrian and Joyride who provide a fleet management stack "out of the box, everything but the bike". This includes trackable bluetooth locks and software to manage fleets.</p>
+<p>Some people call Stromer the Porsche or Rolex of bikes. These are comments meant to express the extravagance, perhaps ostentatious nature of Stromers. They retail for €6,000-€10,000. My interpretation of the bike is that it certainly a high end bike, but that the high upfront cost is recouped on three different dimension:</p>
+<ul>
+<li>Operation cost is lower: The vehicle lasts longar and the build quality is such that it requires less maintenance.</li>
+<li>Integration cost is lower: Bikes have an integrated service layer so app development is quicker and fleet features are built in.</li>
+<li>Revenue per bike is significantly higher: My aim is to at least 10x the WOW air revenue. Faster vehicles of good quality attract more consumers, more trips and people are willing to walk further.</li>
+</ul>
+<p><strong>What about safety?</strong></p>
+<p>A 2015 survey from Gothenburg gives an idea for incident frequency and the nature of accidents on e-bikes.</p>
+<blockquote><p>A total of 410 trips, covering 1474km over 86h, was collected in this study. Average speed was 16.9km/h (SD = 2.9 km/h), and average trip duration was 14.0 min (SD = 5.0 min) across the 12 bicyclists in the analysis. Fig. 2 shows how the trips were spread geographically in the Gothenburg area. Table 2 describes the collected data for each bicyclist.<br>
+The distribution of critical events was as follows: four bicyclists experienced two to four critical events, four bicyclists experienced six to nine, and four bicyclists experienced more than nine (Table 2). Of the 88 critical events, four were iden- tified as crashes with degraded stability (i.e. the rider hit some object and lost stability, but was able to recover and did not fall) and the remaining as near-crashes. The most common conflict was with pedestrians (31% of the critical events; Fig. 3), light vehicles (21%), and bicycles (18%). Conflicts with heavy vehicles and animals were rare, 8% and 6%, respectively. In 9% of the critical events the bicyclist did not have a conflict with any road user but with the infrastructure (e.g. a pothole in the bicycle lane). Finally, in 7% of the cases no clear conflict (i.e. a clear threat to the bicyclist at a specific time and place) was identified. In a very common example, bicyclists claimed that darkness triggered the critical event. As darkness on the road was often present for much of the whole trip, conflict was classified as none.</p>
+</blockquote>
+<p>Regular pedelecs are intended for shared sidewalks with mixed pedestrian, cycling and other Category I LEV traffic. No official survey has been identified that measures incident rate for s-pedelecs who share infrastructure with larger motor vehicles such as cars.</p>
+<p>In a podcast interview a representative from Smide shared some insight from their experience with s-pedelecs in Zurich. The rep disclosed that s-pedelecs had been capped at 30 km/h speeds at the request of the city. A low incident rate has now resulted in the max speed now being set at 40 km/h<sup class="footnote-ref" id="fnref-smide-interview"><a href="#fn-smide-interview">18</a></sup>.</p>
+<p>A survey of traffic incidents involving bikes in Reykjavík reveals some relevant suggestions to improve bike safety. Analysis of incidents revealed a common cause; bikes riding on shared sidewalks in streets with parked cars obscuring their visibility. As the bike intersects from behind parked cars, a car turns into the intersection between parked cars and the vehicles crash into each other. The researcher actually suggests promoting cycling in motor traffic and not on shared sidewalks in order to increase the visibility between drivers and cyclers<sup class="footnote-ref" id="fnref-reykjavik-cycling-accidents"><a href="#fn-reykjavik-cycling-accidents">19</a></sup>.</p>
+<p><strong>What is the trip speed of s-pedelecs?</strong></p>
+<p>S-pedelecs are able to float with car traffic in most urban settings (in Reykjavík, namely streets with 30-50 km/h speed limits). But not many surveys have been done on the speed difference of pedelecs, s-pedelecs and cars. In Sweden one study measured an average speed on regular bikes being 14 km/h and e-bikes at 23 km/h; although their top speeds are similar, it seems that a distribution graph of speeds shows that e-bikes simply help riders accelerate to desired speeds more quickly<sup class="footnote-ref" id="fnref-dozza-bike-speed"><a href="#fn-dozza-bike-speed">20</a></sup>. A report from Vegagerðin (e. The Icelandic Road and Coastal Administration) cites averages speeds in the capital area — car traffic and public transport at 36 km/h and 22 km/h respectively<sup class="footnote-ref" id="fnref-vegagerdin-road-speeds"><a href="#fn-vegagerdin-road-speeds">21</a></sup>. Models of traffic projections from Mannvit suggest traffic will slow down over the next years without a modal shift away from cars<sup class="footnote-ref" id="fnref-mannvit-traffic-model"><a href="#fn-mannvit-traffic-model">22</a></sup>.</p>
+<p>Infrastructure affects trip speed of each modality. Priority lanes, priority flow of traffic at converging streets and safety features can all impact average trip speeds for each modality. In Reykjavík there are planned investments into intersections that give more priority to pedestrian and non-car vehicles. It is worth emphasising that s-pedelecs are currently not allowed to use bike lanes in Reykjavík.</p>
+<p>It’s a well documented phenomenon that trip speed in urban settings are not affected as much by vehicle top speed capabilities, but by the volume of traffic at each time (Lamborghini’s are more about social signalling than getting to work quickly). This is why s-pedelecs start to compete with cars — they achieve velocities of urban car trips.</p>
+<p>A rep from Smide mentions that their s-pedelecs have been demonstrated to take trips from cars and public transport for this reason:</p>
+<blockquote><p>We also have studies showing that our e-bikes, and that’s also what the city likes about us, actually bring people from the car to the bike. So actually it reduces cars and public transport in the long term.</p>
+</blockquote>
+<p><strong>What about the weather? How does usage and seasonality compare to Zurich?</strong></p>
+<p>Many believe that heavy car usage is the result of weather conditions in Reykjavík. This is not true, and a well documented myth. It is actually design decisions of infrastructure that induce the traffic that suits, and is encouraged by, those roads. Many cities with similar climate to Reykjavík have successful bike rentals (Helsinki, Trondheim) and radically less private car traffic in their modal split.</p>
+<p>Tires on bikes can be switched to studded ones during winter months.</p>
+<h2>Liability and insurance</h2>
+<p>Category II vehicles must be registered, numbered and the riders must be insured for vehicle damage in the case of a collision.</p>
+<h2>Municipality cooperation</h2>
+<p>Cities want to understand the effect of dockless e-bikes. Are they replacing car trips? What kind of trips are they? What is the rate of accidents? Are they causing more issues than they are solving?</p>
+<div class="footnotes">
+<hr>
+<ol><li id="fn-modal-split-rvk"><p><a href="https://www.mbl.is/frettir/innlent/2018/01/31/73_prosent_allra_ferda_i_borginni_a_einkabilum/">https://www.mbl.is/frettir/innlent/2018/01/31/73_prosent_allra_ferda_i_borginni_a_einkabilum/</a><a href="#fnref-modal-split-rvk" class="footnote">&#8617;</a></p></li>
+<li id="fn-modal-split-eu"><p><a href="https://www.citylab.com/transportation/2017/10/riding-bikes-buses-trains-in-european-cities/543141/">https://www.citylab.com/transportation/2017/10/riding-bikes-buses-trains-in-european-cities/543141/</a><a href="#fnref-modal-split-eu" class="footnote">&#8617;</a></p></li>
+<li id="fn-mannvit-umferdarspa"><p><a href="http://www.ssh.is/images/stories/Samgongumal/2017_Greinagerd_Umferdarspa_2030_LOKA.pdf">http://www.ssh.is/images/stories/Samgongumal/2017_Greinagerd_Umferdarspa_2030_LOKA.pdf</a><a href="#fnref-mannvit-umferdarspa" class="footnote">&#8617;</a></p></li>
+<li id="fn-ssh-tillogur"><p><a href="https://www.stjornarradid.is/lisalib/getfile.aspx?itemid=92fed458-f4a1-11e8-942f-005056bc530c">https://www.stjornarradid.is/lisalib/getfile.aspx?itemid=92fed458-f4a1-11e8-942f-005056bc530c</a><a href="#fnref-ssh-tillogur" class="footnote">&#8617;</a></p></li>
+<li id="fn-reykjavik-bike-paths-budget"><p><a href="https://fundur.reykjavik.is/sites/default/files/agenda-items/svar_threnging_ofl.pdf">https://fundur.reykjavik.is/sites/default/files/agenda-items/svar_threnging_ofl.pdf</a><a href="#fnref-reykjavik-bike-paths-budget" class="footnote">&#8617;</a></p></li>
+<li id="fn-bike-power-output"><p>Wilson, David Gordon; Jim Papadopoulos (2004). Bicycling Science (Third ed.). The MIT Press. p. 44. ISBN 0-262-73154-1.<a href="#fnref-bike-power-output" class="footnote">&#8617;</a></p></li>
+<li id="fn-guardian-bike-lanes"><p><a href="https://www.theguardian.com/environment/bike-blog/2016/oct/06/cycle-lanes-dont-cause-traffic-jams-theyre-part-of-the-solution">https://www.theguardian.com/environment/bike-blog/2016/oct/06/cycle-lanes-dont-cause-traffic-jams-theyre-part-of-the-solution</a><a href="#fnref-guardian-bike-lanes" class="footnote">&#8617;</a></p></li>
+<li id="fn-lime-gen-2"><p><a href="https://www.li.me/blog/lime-announces-new-name-new-electric-scooter-and-3-million-rides">https://www.li.me/blog/lime-announces-new-name-new-electric-scooter-and-3-million-rides</a><a href="#fnref-lime-gen-2" class="footnote">&#8617;</a></p></li>
+<li id="fn-lime-gen-3"><p><a href="https://www.li.me/blog/lime-s-gen-3-electric-scooter-transform-micro-mobility">https://www.li.me/blog/lime-s-gen-3-electric-scooter-transform-micro-mobility</a><a href="#fnref-lime-gen-3" class="footnote">&#8617;</a></p></li>
+<li id="fn-s-pedelec-sales"><p><a href="https://www.bike-eu.com/sales-trends/nieuws/2018/12/speed-pedelec-sales-shows-steady-growth-10134978">https://www.bike-eu.com/sales-trends/nieuws/2018/12/speed-pedelec-sales-shows-steady-growth-10134978</a><a href="#fnref-s-pedelec-sales" class="footnote">&#8617;</a></p></li>
+<li id="fn-pedelec-motor-growth"><p><a href="https://www.bike-eu.com/sales-trends/nieuws/2018/11/is-e-bike-motor-market-becoming-overcrowded-10134917">https://www.bike-eu.com/sales-trends/nieuws/2018/11/is-e-bike-motor-market-becoming-overcrowded-10134917</a><a href="#fnref-pedelec-motor-growth" class="footnote">&#8617;</a></p></li>
+<li id="fn-smide-research"><p><a href="https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/279562/ab1364.pdf?sequence=1&amp;isAllowed=y">https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/279562/ab1364.pdf?sequence=1&amp;isAllowed=y</a><a href="#fnref-smide-research" class="footnote">&#8617;</a></p></li>
+<li id="fn-smide-twitter"><p><a href="https://twitter.com/smide_picknride/status/1072396711283359744">https://twitter.com/smide_picknride/status/1072396711283359744</a><a href="#fnref-smide-twitter" class="footnote">&#8617;</a></p></li>
+<li id="fn-portland-scooter-questionnaire"><p><a href="https://ggwash.org/view/69621/scooters-are-taking-cars-off-the-road-a-survey-says">https://ggwash.org/view/69621/scooters-are-taking-cars-off-the-road-a-survey-says</a><a href="#fnref-portland-scooter-questionnaire" class="footnote">&#8617;</a></p></li>
+<li id="fn-car-trip-distance"><p><a href="https://nhts.ornl.gov/tables09/fatcat/2009/vt_TRPMILES.html">https://nhts.ornl.gov/tables09/fatcat/2009/vt_TRPMILES.html</a><a href="#fnref-car-trip-distance" class="footnote">&#8617;</a></p></li>
+<li id="fn-uk-vehicle-occupancy"><p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/8940/nts2010-09.pdf">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/8940/nts2010-09.pdf</a><a href="#fnref-uk-vehicle-occupancy" class="footnote">&#8617;</a></p></li>
+<li id="fn-nacto-trips-per-bike"><p><a href="https://nacto.org/wp-content/uploads/2015/09/NACTO_Walkable-Station-Spacing-Is-Key-For-Bike-Share_Sc.pdf">https://nacto.org/wp-content/uploads/2015/09/NACTO_Walkable-Station-Spacing-Is-Key-For-Bike-Share_Sc.pdf</a><a href="#fnref-nacto-trips-per-bike" class="footnote">&#8617;</a></p></li>
+<li id="fn-smide-interview"><p><a href="https://medium.com/micromobility/going-premium-the-iphone-model-of-bikeshares-interviewing-corinne-vogel-of-smide-505a2213c743">https://medium.com/micromobility/going-premium-the-iphone-model-of-bikeshares-interviewing-corinne-vogel-of-smide-505a2213c743</a><a href="#fnref-smide-interview" class="footnote">&#8617;</a></p></li>
+<li id="fn-reykjavik-cycling-accidents"><p><a href="http://www.vegagerdin.is/vefur2.nsf/Files/nakvaem_greining_hjolreidaslysa/$file/Nákvæm_greining_hjólreiðaslysa_2014.pdf">http://www.vegagerdin.is/vefur2.nsf/Files/nakvaem_greining_hjolreidaslysa/$file/Nákvæm_greining_hjólreiðaslysa_2014.pdf</a><a href="#fnref-reykjavik-cycling-accidents" class="footnote">&#8617;</a></p></li>
+<li id="fn-dozza-bike-speed"><p><a href="https://core.ac.uk/download/pdf/70610459.pdf">https://core.ac.uk/download/pdf/70610459.pdf</a><a href="#fnref-dozza-bike-speed" class="footnote">&#8617;</a></p></li>
+<li id="fn-vegagerdin-road-speeds"><p><a href="http://www.vegagerdin.is/vefur2.nsf/Files/Skipul_houdborg-sjalfb_throun-samg/$file/Skipul_houdborg-sjalfb_throun-samg.pdf">http://www.vegagerdin.is/vefur2.nsf/Files/Skipul_houdborg-sjalfb_throun-samg/$file/Skipul_houdborg-sjalfb_throun-samg.pdf</a><a href="#fnref-vegagerdin-road-speeds" class="footnote">&#8617;</a></p></li>
+<li id="fn-mannvit-traffic-model"><p><a href="https://ssh.is/images/stories/Sóknaráætlun/Lokaskyrslur/Vaxtarsamningur/Mat_samgongusv_loka_NET.pdf">https://ssh.is/images/stories/Sóknaráætlun/Lokaskyrslur/Vaxtarsamningur/Mat_samgongusv_loka_NET.pdf</a><a href="#fnref-mannvit-traffic-model" class="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+    </div>
+  
+  </div>
+
+
+  </div>
+  <footer>
+    <a href="mailto:jokull@solberg.is">jokull@solberg.is</a>
+  </footer>
+</body>
