@@ -82,6 +82,10 @@ div.page {
     line-height: 1.5;
 }
 
+.blog-post p {
+    font-size: 120%;
+}
+
 .blog-post img {
     max-width: 100%;
 }
@@ -90,14 +94,31 @@ div.page {
     float: right; margin-left: 20px;
 }
 
-.blog-post blockquote, .blog-post .meta {
-    font-family: times;
-    font-style: italic;
+.blog-post blockquote {
+    color: rgba(0,0,0,0.6);
+    margin: 1em 0;
+    padding: 0.5em 2em;
+    background: rgba(0,0,0,0.03);
+    border-left: 1px solid rgba(0,0,0,0.1);
+}
+
+.blog-post blockquote p {
+}
+
+.blog-post h1 {
+    margin-bottom: 4px;
+}
+
+.blog-post .meta {
+    margin: 0 0 2em 0;
+    color: rgba(0,0,0,0.4);
 }
 
 .blog-post-body a {
     text-decoration: underline;
 }
+
+.blog-post-index span { color: rgba(0,0,0,0.4); }
 
 /* 
 
