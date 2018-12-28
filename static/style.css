@@ -183,4 +183,8 @@ hr:after {
     blockquote {
         margin: 0 12px;
     }
+
+    .blog-post p, .blog-post li {
+        font-size: 100%;
+    }
 }
