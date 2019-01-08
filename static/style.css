@@ -192,6 +192,8 @@ hr:after {
   top: 100%;
 }
 
+.grey { color: grey; }
+
 @media only screen and (max-width: 600px) {
     blockquote {
         margin: 0 12px;
