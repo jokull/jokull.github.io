@@ -1,0 +1,136 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../static/style.css?v=1">
+<link rel="alternate" type="application/atom+xml" title="Jökull Sólberg" href="/feed.xml" />
+<title>Örflæði.is: Motivation and Tech Stack — Jökull Sólberg</title>
+<body>
+  <header>
+    <h1>
+      <a href="../">Jökull Sólberg</a>
+      <a href="mailto:jokull@solberg.is"></a>
+    </h1>
+    <div class="social">
+      <a href="https://twitter.com/jokull"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   viewBox="0 0 612 612">
+  <g>
+    <path fill="#000" d="M612,116.258c-22.525,9.981-46.694,16.75-72.088,19.772c25.929-15.527,45.777-40.155,55.184-69.411
+      c-24.322,14.379-51.169,24.82-79.775,30.48c-22.907-24.437-55.49-39.658-91.63-39.658c-69.334,0-125.551,56.217-125.551,125.513
+      c0,9.828,1.109,19.427,3.251,28.606C197.065,206.32,104.556,156.337,42.641,80.386c-10.823,18.51-16.98,40.078-16.98,63.101
+      c0,43.559,22.181,81.993,55.835,104.479c-20.575-0.688-39.926-6.348-56.867-15.756v1.568c0,60.806,43.291,111.554,100.693,123.104
+      c-10.517,2.83-21.607,4.398-33.08,4.398c-8.107,0-15.947-0.803-23.634-2.333c15.985,49.907,62.336,86.199,117.253,87.194
+      c-42.947,33.654-97.099,53.655-155.916,53.655c-10.134,0-20.116-0.612-29.944-1.721c55.567,35.681,121.536,56.485,192.438,56.485
+      c230.948,0,357.188-191.291,357.188-357.188l-0.421-16.253C573.872,163.526,595.211,141.422,612,116.258z"/>
+  </g>
+</svg></a>
+      <a href="https://instagram.com/jokull"><svg viewbox="0 0 258 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" fill="none" fill-rule="evenodd">
+        <g id="instagram-seeklogo.com" fill="#000" fill-rule="nonzero">
+            <path d="M127.999746,23.06353 C162.177385,23.06353 166.225393,23.1936027 179.722476,23.8094161 C192.20235,24.3789926 198.979853,26.4642218 203.490736,28.2166477 C209.464938,30.5386501 213.729395,33.3128586 218.208268,37.7917319 C222.687141,42.2706052 225.46135,46.5350617 227.782844,52.5092638 C229.535778,57.0201472 231.621007,63.7976504 232.190584,76.277016 C232.806397,89.7746075 232.93647,93.8226147 232.93647,128.000254 C232.93647,162.177893 232.806397,166.225901 232.190584,179.722984 C231.621007,192.202858 229.535778,198.980361 227.782844,203.491244 C225.46135,209.465446 222.687141,213.729903 218.208268,218.208776 C213.729395,222.687649 209.464938,225.461858 203.490736,227.783352 C198.979853,229.536286 192.20235,231.621516 179.722476,232.191092 C166.227425,232.806905 162.179418,232.936978 127.999746,232.936978 C93.8200742,232.936978 89.772067,232.806905 76.277016,232.191092 C63.7971424,231.621516 57.0196391,229.536286 52.5092638,227.783352 C46.5345536,225.461858 42.2700971,222.687649 37.7912238,218.208776 C33.3123505,213.729903 30.538142,209.465446 28.2166477,203.491244 C26.4637138,198.980361 24.3784845,192.202858 23.808908,179.723492 C23.1930946,166.225901 23.0630219,162.177893 23.0630219,128.000254 C23.0630219,93.8226147 23.1930946,89.7746075 23.808908,76.2775241 C24.3784845,63.7976504 26.4637138,57.0201472 28.2166477,52.5092638 C30.538142,46.5350617 33.3123505,42.2706052 37.7912238,37.7917319 C42.2700971,33.3128586 46.5345536,30.5386501 52.5092638,28.2166477 C57.0196391,26.4642218 63.7971424,24.3789926 76.2765079,23.8094161 C89.7740994,23.1936027 93.8221066,23.06353 127.999746,23.06353 Z M127.999746,0 C93.2367791,0 88.8783247,0.147348072 75.2257637,0.770274749 C61.601148,1.39218523 52.2968794,3.55566141 44.1546281,6.72008828 C35.7374966,9.99121548 28.5992446,14.3679613 21.4833489,21.483857 C14.3674532,28.5997527 9.99070739,35.7380046 6.71958019,44.1551362 C3.55515331,52.2973875 1.39167714,61.6016561 0.769766653,75.2262718 C0.146839975,88.8783247 0,93.2372872 0,128.000254 C0,162.763221 0.146839975,167.122183 0.769766653,180.774236 C1.39167714,194.398852 3.55515331,203.703121 6.71958019,211.845372 C9.99070739,220.261995 14.3674532,227.400755 21.4833489,234.516651 C28.5992446,241.632547 35.7374966,246.009293 44.1546281,249.28042 C52.2968794,252.444847 61.601148,254.608323 75.2257637,255.230233 C88.8783247,255.85316 93.2367791,256 127.999746,256 C162.762713,256 167.121675,255.85316 180.773728,255.230233 C194.398344,254.608323 203.702613,252.444847 211.844864,249.28042 C220.261995,246.009293 227.400247,241.632547 234.516143,234.516651 C241.632039,227.400755 246.008785,220.262503 249.279912,211.845372 C252.444339,203.703121 254.607815,194.398852 255.229725,180.774236 C255.852652,167.122183 256,162.763221 256,128.000254 C256,93.2372872 255.852652,88.8783247 255.229725,75.2262718 C254.607815,61.6016561 252.444339,52.2973875 249.279912,44.1551362 C246.008785,35.7380046 241.632039,28.5997527 234.516143,21.483857 C227.400247,14.3679613 220.261995,9.99121548 211.844864,6.72008828 C203.702613,3.55566141 194.398344,1.39218523 180.773728,0.770274749 C167.121675,0.147348072 162.762713,0 127.999746,0 Z M127.999746,62.2703115 C91.698262,62.2703115 62.2698034,91.69877 62.2698034,128.000254 C62.2698034,164.301738 91.698262,193.730197 127.999746,193.730197 C164.30123,193.730197 193.729689,164.301738 193.729689,128.000254 C193.729689,91.69877 164.30123,62.2703115 127.999746,62.2703115 Z M127.999746,170.667175 C104.435741,170.667175 85.3328252,151.564259 85.3328252,128.000254 C85.3328252,104.436249 104.435741,85.3333333 127.999746,85.3333333 C151.563751,85.3333333 170.666667,104.436249 170.666667,128.000254 C170.666667,151.564259 151.563751,170.667175 127.999746,170.667175 Z M211.686338,59.6734287 C211.686338,68.1566129 204.809755,75.0337031 196.326571,75.0337031 C187.843387,75.0337031 180.966297,68.1566129 180.966297,59.6734287 C180.966297,51.1902445 187.843387,44.3136624 196.326571,44.3136624 C204.809755,44.3136624 211.686338,51.1902445 211.686338,59.6734287 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg></a>
+    </div>
+  </header>
+  <div class="page">
+    
+  
+<div class="blog-post">
+  <div class="blog-post-header">
+    <h1>Örflæði.is: Motivation and Tech Stack</h1>
+    <p class="meta">
+      6. mars 2020
+    </p>
+  </div>
+  <div class="blog-post-body">
+    <p><img src="../orflaedi-punktur-is/graphic.png" alt=""></p>
+<p>I recently launched a side project – basically a buyer’s guide for e-bikes in Iceland. It’s been a few years since I worked on a substantial coding project and it has been a surprising amount of fun.</p>
+<p>Link: <a href="https://www.orflaedi.is/">www.örflæði.is</a></p>
+<p>Late last year I actually worked on something that I never got around to publishing. At home we had a baby in November and there were some quiet moments in the first few weeks where I could learn SwiftUI, the new iOS framework for declarative UI. I created a simple Python backend and iOS app that scrapes air particulate data from the environmental agency in Iceland and presents a geo-coordinate proximity sorted list of stations to the user. I had never done anything in either ObjectiveC or Swift so it was quite a learning curve. Apple rejected the app because it replicates website functionality. I argued that there was actually some useful sorting based on device location but the appeal was rejected too.</p>
+<p>On the e-bike project I am hosting a mobile-first web solution so there is no application to reject.</p>
+<h2>Motivation</h2>
+<p>I’m a big believer in human sized vehicles in the urban setting. I believe e-bikes will dominate bike sales and is a potential disruptor of car centricity in urban planning and lifestyles. I have been an advocate for e-bikes in Iceland, have monitored import numbers, written articles, been interviewed by newspapers, maintained a newsletter about micromobility with ~1,000 readers, participated in panels on planning, spoken with ministers, consulted retailers and helped the ministry of finance structure a VAT rebate for e-bikes and micromobility vehicles. I’ve also taken some crap from bike advocates that dislike motors and car maniacs who feel threatened. All part of the fun of doing unpaid advocacy work.</p>
+<p>In my opinion incumbent bike retailers have not embraced electric motors and been mostly reactive to increasing consumer demand. The growth in bikes is mostly due to motorization broadening the appeal to new consumer segments. This is a an opportunity for retailers and new entrants appealing to new segments. People who love racers and Rapha hats are not good at appealing to family people looking for commuting solutions.</p>
+<p>The space is highly competitive and there are few companies in the supply chain that have captured truly defensible businesses — except for Bosch who have built a resilient brand for high-torque motors and nicely designed displays. Future brands may capture more intelligence at fleet levels but that is conjecture. For now, profits are slim but volume is increasing and consumers are benefiting.</p>
+<p>We have all the ingredients for a high growth market with a very high ceiling on ownership rates. Vehicles are person sized and therefore a highly personal preference. Most consumers will decide based on emotional factors and don’t have the interest to discern specs. Frame design, ride comfort and cycling lane access are winning attributes.</p>
+<p>All of this calls for research tools to navigate a broad range of options and none currently exist.</p>
+<h2>Design</h2>
+<p>I am not a designer. I browse dribbble.com and combine ideas that are easy to implement in CSS. I did not design anything in Sketch. I shift to „CSS mode“ when my flexibly scoped coding resulted in things that looked just too ugly to keep looking at — using Tailwind CSS so I could stay in HTML mode as much as possible. The way <a href="https://tailwindcss.com">Tailwind</a> works is that you get thousands of modular styles for common patterns and apply those directly to elements instead of writing styles in CSS.</p>
+<pre><code class="lang-html">&lt;button class=&quot;bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded&quot;&gt;Click me&lt;/button&gt;
+</code></pre>
+<p>This gives you a good looking button without any CSS. When you have repeatable composed patterns you can use the <code>@apply</code> directive to move things to CSS without styling from scratch.</p>
+<h2>Backend &amp; Hosting</h2>
+<p>My familiarity with Python and Postgres is substantial so I don’t even review anything else. This is where I can pick up a lot of velocity and I know the hosting environment well.</p>
+<p>One of the main requirements is to reliably scrape the retailer websites for bikes and specs. I have used BeautifulSoup and python-requests to scrape sites before. For this project I looked into Scrapy for the first time and loved what I saw. The difference is that Scrapy is a proper framework with a heavy focus on the developer experience as opposed to two distinct libraries. To crawl sites you write spiders which are just Python scripts with a class that subclasses <code>scrapy.Spider</code>.</p>
+<pre><code class="lang-python">import scrapy
+
+
+class BerlinSpider(scrapy.Spider):
+    name = &quot;berlin&quot;
+
+    start_urls = [
+        &quot;https://www.reidhjolaverzlunin.is/collections/rafmagnshjol&quot;,
+    ]
+
+    def parse(self, response):
+        for link in response.css(&quot;.product&gt;a&quot;):
+            yield response.follow(link, self.parse_product)
+
+    def parse_product(self, response):
+
+        price = int(&quot;&quot;.join(response.css(&quot;.money::text&quot;)[0].re(r&quot;\d+&quot;)))
+        sku = response.css(&quot;.product-single::attr(&#39;class&#39;)&quot;).re(r&quot;product-(\d+)&quot;)[0]
+
+        yield {
+            &quot;sku&quot;: sku,
+            &quot;name&quot;: response.css(&quot;.section__title-text::text&quot;).get(),
+            &quot;make&quot;: response.css(&quot;h4.section__title-desc a::text&quot;).get(),
+            &quot;price&quot;: price,
+            &quot;file_urls&quot;: [response.css(&quot;.product-single__photo__img::attr(&#39;data-pswp-src&#39;)&quot;).get()],
+            &quot;scrape_url&quot;: response.url,
+        }
+</code></pre>
+<p>This is all it takes to get all bikes from <code>reidhjolaverzlunin.is</code>. Awesome! You can choose between XPath or CSS selectors — power or simplicity — or a mix of both. I’m a big fan of Scrapy now. One of my favorite things is <code>scrapy shell &lt;url&gt;</code> which pops you into an ipython session with the <code>response</code> object your spider would receive for a particular URL. I had a shell, and Firefox with developer tools to inspect the DOM and knocked out 14 scrapers in three or four coding sessions.</p>
+<p>I’m using <a href="https://fastapi.tiangolo.com">FastAPI</a> for the second time now. I’m amazed that you could take something like Flask (which I have used on projects ranging from tiny to huge with great success and no complaints), add async and make the API even better. Impressive. It has deeper integration for JSON API requests and responses — which Flask remains mostly agnostic about, leaving input validation to other libraries. In FastAPI you get sanitized input with developer friendly error reporting — although I’m not using any of these features for this project, but it’s good to know that adding a public JSON API is only a few lines of code.</p>
+<p>There is currently only one view with different filters which I pass and combine as query parameters. I could add some caching to the front page as it doesn’t change dynamically unless there are scrapes which only ever happen a few times a day. I should really do that. But the PageSpeed score is already 100!</p>
+<h2>Frontend</h2>
+<p>I went back and forth with the frontend stack. There is no logged-in UX and I want everything to be super SEO friendly and fast. The idea of backend React rendering is not appealing and I don’t have a lot of experience running Node.js as a web service. Besides; I really wanted to use Python and FastAPI.</p>
+<p>I ended up using the Jinja2 template engine which has amazing composability, macros and inheritance patterns.</p>
+<p>What about interactive JavaScript bits? The appeal of React is that you sacrifice backend rendering (at least in Python) but move rendering closer to JavaScript which does DOM manipulation where re-renders are calculated based on an internal DOM representation in the client. For now the site is very light on JavaScript. There are only hide/show or collapse/expand features and I wrote those in TypeScript without any UI libraries (just <code>document.querySelector</code> and things). Not sure I even needed TypeScript, but it will come in handy with more complexity further down the road. I have one dependency which is lazy loading images based on viewport and scroll position to save bandwidth.</p>
+<h2>Other things</h2>
+<p>After some research I settled on <a href="https://www.imgix.com/">imgix</a> for image hosting and resizing. Turns out you can just scrape image urls, then hand the external image link over to imgix and set attributes for color trimming to remove whitespace from the bike images, detect the best compression and serve different sizes based on device DPI (webp+x2 for iPhone for example). This was really handy because although most bikes are on a white background many of them were floated with different amounts of whitespace on the image canvas, making the grid of bikes appear chaotic. Not the first time I use imgix. Love this service and API.</p>
+<p>I’m kind of obsessed with <a href="https://www.render.com">Render.com</a>. It’s like Heroku but without mucking about with the CLI and buildpacks. Things "just work" and the price is fair. For a while I thought I would need NGiNX reverse proxying to a uwsgi backend and maybe even a CDN for the static assets for a proper production environment. But I hate Docker, CloudFront, S3 and I hate VPS.</p>
+<p>FastAPI is uses Starlette which is an async http server library. Because of this you get acceptable response times for static serving. This means you don’t take as big a performance penalty for not having NGiNX or CDN hosting for the JS and CSS bundles (only two additional requests).</p>
+<p>Between static assets being served with an async framework and imgix delivering thumbnails via edge locations I decided to drop NGiNX. Which means my hosting requirements are just a Python 3 service on Render.com.</p>
+<p>Finally there is <a href="http://poetry.eustace.io">Poetry</a>. This is a really well architected package manager that does <em>much</em> better management of requirements than pip or Pipenv. It also abstracts virtualenvs and separates development requirements. I’m happy to see this project mature and gather momentum. Python really needs this. Unfortunately Render.com does not support this so you need to keep track of a <code>requirements.txt</code> file separately. Fortunately Poetry makes this bridging relatively easy with a simple export command:</p>
+<pre><code class="lang-bash">&gt; poetry export --without-hashes -f requirements.txt &gt; requirements.txt
+</code></pre>
+<hr>
+
+<p>I hope this was useful or fun or whatever.</p>
+<p>Check out the code on <a href="https://github.com/jokull/orflaedi">github.com/jokull/orflaedi</a>.</p>
+
+  </div>
+</div>
+
+
+  </div>
+  <footer>
+    <a href="mailto:jokull@solberg.is">jokull@solberg.is</a>
+  </footer>
+<!-- Fathom - simple website analytics - https://usefathom.com -->
+<script>
+(function(f, a, t, h, o, m){
+a[h]=a[h]||function(){
+(a[h].q=a[h].q||[]).push(arguments)
+};
+o=f.createElement('script'),
+m=f.getElementsByTagName('script')[0];
+o.async=1; o.src=t; o.id='fathom-script';
+m.parentNode.insertBefore(o,m)
+})(document, window, 'https://cdn.usefathom.com/tracker.js', 'fathom');
+fathom('set', 'siteId', 'JXNVNPYD');
+fathom('trackPageview');
+</script>
+<!-- / Fathom -->
+</body>
