@@ -2,13 +2,261 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Jökull Sólberg</title>
   <id>urn:uuid:de339627-d6d9-3c6e-8be7-ba7fce135cd8</id>
-  <updated>2019-08-27T00:00:00Z</updated>
+  <updated>2020-03-12T00:00:00Z</updated>
   <link href="http://www.solberg.is/" />
   <link href="http://www.solberg.is/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="http://www.solberg.is/lof/">
+    <title type="text">Lög um opinber fjármál gera hvorki ráð fyrir sparnaði né efnahagskreppu</title>
+    <id>urn:uuid:0630ab93-408e-35ce-b23e-1ef964ca7da8</id>
+    <updated>2020-03-12T00:00:00Z</updated>
+    <link href="http://www.solberg.is/lof/" />
+    <author>
+      <name></name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Greinin birtist fyrst á &lt;a href=&quot;https://stundin.is/grein/10681/log-um-opinber-fjarmal-gera-hvorki-rad-fyrir-sparnadi-ne-efnahagskreppu/&quot;&gt;stundin.is&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ákall um ábyrgt og skuldlaust ríki var hávært á Samráðsvettvangi um aukna hagsæld sem kynnti tillögur sínar árið 2013. Alþjóða gjaldeyrissjóðurinn (AGS) og Rannsóknarskýrsla Alþingis var á sömu slóðum. Í kjölfarið var framkvæmd fjárlaga tekin til endurskoðunar og lög um opinber fjármál samþykkt árið 2015.&lt;/p&gt;
+&lt;p&gt;Ætlunin með lögum um opinber fjármál er meðal annars eftirfarandi:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Girða fyrir freistnivanda stjórnmálamanna sem hugsa til skamms tíma og auka á skuldir hins opinbera á kostnað komandi kynslóða og annarra ríkisstjórna.&lt;/li&gt;
+&lt;li&gt;Tryggja að skuldir ríkisins séu viðráðanlegar og sjálfbærar.&lt;/li&gt;
+&lt;li&gt;Fylgja fordæmi annara landa sem hafa skipað óháðar nefndir til að greina sjálfbærni fjárlaga hvers árs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Lög um opinber fjármál fela einnig í sér eftirfarandi ákvæði og ramma um fjárlög:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;2,5% hámarkshalla hverra fjárlaga, sem hlutfall af þjóðarframleiðslu.&lt;/li&gt;
+&lt;li&gt;Meðaltal þeirra fimm ára sem á undan koma skal ekki vera með halla.&lt;/li&gt;
+&lt;li&gt;Skuldastofn sem hlutfall af þjóðarframleiðslu hvers árs skal vera innan við 30%.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Vandamál laga um opinber fjármál er að reglurnar eru of harðar og leiða til óþarflega lágrar skuldastöðu. Alvarlegustu afleiðingar þessa þrönga ramma eru:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Lögbundinn sparnaður verður óöruggari:&lt;/strong&gt; Skuldastofninn lækkar til langs tíma sem býr til vandamál fyrir lífeyrissjóði og annan sparnað einkageira.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Niðursveiflur verða að jafnaði dýpri og vara lengur:&lt;/strong&gt; Svigrúm fyrir hallarekstur er of takmarkað til að takast á við þær efnahagssveiflur sem við má búast.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Stórar breytingar nauðsynlegar&lt;/h2&gt;
+&lt;p&gt;Það þarf þrjár stórar breytingar á lögunum til að þau þjóni okkar hagsmunum á sama tíma og þau veita stjórnmálum aðhald í ríkisfjármálum.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Númer 1: Afnema fyrstu regluna um hámarks halla á fjárlögum. Taka mið af vaxtastigi hvers tíma og horfa á sjálfbærar skuldagreiðslur, til að mynda að setja annað hámark um skuldagreiðslur með teknu tilliti til vaxtagreiðslna fari ekki yfir eitthvað hámark.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Þegar kólnar í hagkerfinu, fyrirtæki fara í þrot, atvinnuleysisskrá lengist og félagslegar skuldbindingar ríkisins aukast er talað um sjálfvirkan sveiflujafnara. Það eru ekki bara innviðaframkvæmdir sem geta gripið framleiðslukosti hagkerfisins þegar þeir losna, heldur þarf öryggisnet til að brúa bilið í lífi fólks.&lt;/p&gt;
+&lt;p&gt;Sagnfræðingurinn Adam Tooze hefur kallað sjálfvirka sveiflujafnara einn af tveimur bjargvættum í efnahgshruninu 2008. Að sama skapi hefur hann bent á sterka fylgni milli þeirra þjóða sem áttu lengri efnahagsbata og þeirra sem var neitað um sjálfvirka sveiflujafnara í nafni sveltistefnu. Reglan um hámarks halla bindur hendur stjórnmálamanna í að taka við framleiðsluþáttum fyrir fjárfestingingar og innviðauppbyggingu, en skerða einnig mátt annara skuldbindinga sem mýkja dýfuna.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Númer 2: Láta fimm ára regluna sveiflast í kringum 1,5% halla en ekki í kringum núllið.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ríkissjóður verður að lokum skuldlaus ef lögunum er framfylgt óbreyttum til lengri tíma. Ef stefnt er að afgangi fjárlaga síðustu fimm ára hverju sinni er ekki hægt annað en að skuldastofn í hlutfalli við þjóðarframleiðslu minnki með tímanum.&lt;/p&gt;
+&lt;p&gt;Hvernig getur það staðist? Jú, skuldahlutfallið sem um ræðir er einföld deiling þar sem heildarskuldir eru teljari og þjóðarframleiðsla hvers árs er nefnari. Þjóðarframleiðsla eykst yfirleitt ár frá ári sem er til lækkunar á reikningsdæminu. Verðbólga bítur svo á teljarann í brotinu, þ.e. skuldirnar, sem aftur er til lækkunar á heildarskuldum í hlutfalli við þjóðarframleiðslu.&lt;/p&gt;
+&lt;p&gt;Þetta leiðir af sér að skuldir rýrna sé miðað við þróun verðlags á meðan þjóðarframleiðslan eykst. Ef þjóðarbúið er í miklum vexti, eins og tilfellið hefur verið síðustu ár, þá lækkar skuldahlutfallið þeim mun hraðar. Ef ætlunin er hinsvegar að viðhalda einhverju sérstöku skuldahlutfalli þyrfti að gera ráð fyrir áhrifum verðbólgu og aukinni þjóðarframleiðslu í þeim viðmiðum. Til að viðhalda sömu prósentu ríkisskulda þyrfti neikvæðan fjárlagajöfnuð til lengri tíma til að vinna á móti umræddum áhrifum. Það er hinsvegar ekki gert og því er raunin sú að skuldir eru komnar langt niðurfyrir öll viðmið.&lt;/p&gt;
+&lt;p&gt;Svo dæmi sé tekið væri hægt að viðhalda stöðugum 30% ríkisskuldum við 3% hagvöxt og 2% verðbólgu með 1,5% fjárlagahalla á hverju ári. Með minni halla en það dregst úr skuldahlutfallinu.&lt;/p&gt;
+&lt;p&gt;Reynslan af þessari fjárlagastefnu hefur einmitt verið sú að ríkisskuldir lækka hratt. Þjóðarframleiðsla hefur aukist, væg verðbólga nartar í skuldirnar og hlutfallið er nú komið niðurfyrir 20%. Fyrst það er verið að leika sér með tölur þá er eins gott að reikna dæmið til enda. Átta allir sig á því hver óumflýjanleg þróun er? Mikið er talað um að staðan sé góð og inneign ríkisstjórnar og seðlabanka fyrir aðgerðir til að vinna á hagsveiflu niður á við er mikil. Það er hárrétt að staðan er öfundsverð, sérstaklega ef tekið er tillit til Evrusvæðisins sem hefur lengri hagsögu að baki með sambærilegum skuldareglum. Þar er staðan kolsvört. En höfum við verið að þrengja ólina um of og að óþörfu?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Númer 3: Afnema alveg hámarks skuldahlutfall og notast bara við fyrstu regluna um sjálfbærar greiðslur með teknu tilliti til vaxtastigs.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Það er ekki óeðlilegt að ríkið sé með vaxandi skuldir þegar sparnaður er að aukast. Áhrifin af óeðlilega lágum skuldastofni er farin að gera vart við sig á samsetningu eigna lífeyrissjóða og erlenda geirann.&lt;/p&gt;
+&lt;p&gt;Lífeyrissjóðir og annar sparnaður á erfiðara með að tryggja örugga ávöxtun án samsvarandi framboðs ríkisskuldabréfa. Með lífeyrissjóðskerfi sem hefur vaxandi þörf fyrir örugga ávöxtun er mikilvægt að staldra við og spurja hvort aukin áhætta og dýrari sjóðsstýring sem fylgir hærra hlutfalli áhættusamari eigna sé þess virði.&lt;/p&gt;
+&lt;p&gt;Ríkisskuldabréf hafa hingað til verið undirstaða öruggrar ávöxtunar. Ætlum við núna aftast í halarófu alþjóðamarkaðarins í leit að öruggum jákvæðum vöxtum þegar stýrivextir eru hærri hér heima?&lt;/p&gt;
+&lt;h2&gt;Tími fyrir aðgerðir&lt;/h2&gt;
+&lt;p&gt;Nú er tími fyrir aðgerðir. Viðeigandi viðbrögð þegar ríkisskuldir eru komnar undir 20% geta vel þýtt meira en 2,5% halli. Ætlum við að neita okkur um metnaðarfull viðbrögð stjórnvalda í nafni ábyrgra ríkisfjármála? Er þetta ekki þversögn þegar ábyrgðarfull viðbrögð fela í raun í sér metnaðarfulla uppbyggingu og fjárfestingar í innviðum sem komandi kynslóðir koma til með að hafa beinan hag af?&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.solberg.is/orflaedi-punktur-is/">
+    <title type="text">Örflæði.is: Motivation and Tech Stack</title>
+    <id>urn:uuid:fe906dac-fbe9-30a3-9208-f175368c4c02</id>
+    <updated>2020-03-06T00:00:00Z</updated>
+    <link href="http://www.solberg.is/orflaedi-punktur-is/" />
+    <author>
+      <name></name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;../orflaedi-punktur-is/graphic.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I recently launched a side project – basically a buyer’s guide for e-bikes in Iceland. It’s been a few years since I worked on a substantial coding project and it has been a surprising amount of fun.&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href=&quot;https://www.orflaedi.is/&quot;&gt;www.örflæði.is&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Late last year I actually worked on something that I never got around to publishing. At home we had a baby in November and there were some quiet moments in the first few weeks where I could learn SwiftUI, the new iOS framework for declarative UI. I created a simple Python backend and iOS app that scrapes air particulate data from the environmental agency in Iceland and presents a geo-coordinate proximity sorted list of stations to the user. I had never done anything in either ObjectiveC or Swift so it was quite a learning curve. Apple rejected the app because it replicates website functionality. I argued that there was actually some useful sorting based on device location but the appeal was rejected too.&lt;/p&gt;
+&lt;p&gt;On the e-bike project I am hosting a mobile-first web solution so there is no application to reject.&lt;/p&gt;
+&lt;h2&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;I’m a big believer in human sized vehicles in the urban setting. I believe e-bikes will dominate bike sales and is a potential disruptor of car centricity in urban planning and lifestyles. I have been an advocate for e-bikes in Iceland, have monitored import numbers, written articles, been interviewed by newspapers, maintained a newsletter about micromobility with ~1,000 readers, participated in panels on planning, spoken with ministers, consulted retailers and helped the ministry of finance structure a VAT rebate for e-bikes and micromobility vehicles. I’ve also taken some crap from bike advocates that dislike motors and car maniacs who feel threatened. All part of the fun of doing unpaid advocacy work.&lt;/p&gt;
+&lt;p&gt;In my opinion incumbent bike retailers have not embraced electric motors and been mostly reactive to increasing consumer demand. The growth in bikes is mostly due to motorization broadening the appeal to new consumer segments. This is a an opportunity for retailers and new entrants appealing to new segments. People who love racers and Rapha hats are not good at appealing to family people looking for commuting solutions.&lt;/p&gt;
+&lt;p&gt;The space is highly competitive and there are few companies in the supply chain that have captured truly defensible businesses — except for Bosch who have built a resilient brand for high-torque motors and nicely designed displays. Future brands may capture more intelligence at fleet levels but that is conjecture. For now, profits are slim but volume is increasing and consumers are benefiting.&lt;/p&gt;
+&lt;p&gt;We have all the ingredients for a high growth market with a very high ceiling on ownership rates. Vehicles are person sized and therefore a highly personal preference. Most consumers will decide based on emotional factors and don’t have the interest to discern specs. Frame design, ride comfort and cycling lane access are winning attributes.&lt;/p&gt;
+&lt;p&gt;All of this calls for research tools to navigate a broad range of options and none currently exist.&lt;/p&gt;
+&lt;h2&gt;Design&lt;/h2&gt;
+&lt;p&gt;I am not a designer. I browse dribbble.com and combine ideas that are easy to implement in CSS. I did not design anything in Sketch. I shift to „CSS mode“ when my flexibly scoped coding resulted in things that looked just too ugly to keep looking at — using Tailwind CSS so I could stay in HTML mode as much as possible. The way &lt;a href=&quot;https://tailwindcss.com&quot;&gt;Tailwind&lt;/a&gt; works is that you get thousands of modular styles for common patterns and apply those directly to elements instead of writing styles in CSS.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-html&quot;&gt;&amp;lt;button class=&amp;quot;bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded&amp;quot;&amp;gt;Click me&amp;lt;/button&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This gives you a good looking button without any CSS. When you have repeatable composed patterns you can use the &lt;code&gt;@apply&lt;/code&gt; directive to move things to CSS without styling from scratch.&lt;/p&gt;
+&lt;h2&gt;Backend &amp;amp; Hosting&lt;/h2&gt;
+&lt;p&gt;My familiarity with Python and Postgres is substantial so I don’t even review anything else. This is where I can pick up a lot of velocity and I know the hosting environment well.&lt;/p&gt;
+&lt;p&gt;One of the main requirements is to reliably scrape the retailer websites for bikes and specs. I have used BeautifulSoup and python-requests to scrape sites before. For this project I looked into Scrapy for the first time and loved what I saw. The difference is that Scrapy is a proper framework with a heavy focus on the developer experience as opposed to two distinct libraries. To crawl sites you write spiders which are just Python scripts with a class that subclasses &lt;code&gt;scrapy.Spider&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-python&quot;&gt;import scrapy
+
+
+class BerlinSpider(scrapy.Spider):
+    name = &amp;quot;berlin&amp;quot;
+
+    start_urls = [
+        &amp;quot;https://www.reidhjolaverzlunin.is/collections/rafmagnshjol&amp;quot;,
+    ]
+
+    def parse(self, response):
+        for link in response.css(&amp;quot;.product&amp;gt;a&amp;quot;):
+            yield response.follow(link, self.parse_product)
+
+    def parse_product(self, response):
+
+        price = int(&amp;quot;&amp;quot;.join(response.css(&amp;quot;.money::text&amp;quot;)[0].re(r&amp;quot;\d+&amp;quot;)))
+        sku = response.css(&amp;quot;.product-single::attr(&amp;#39;class&amp;#39;)&amp;quot;).re(r&amp;quot;product-(\d+)&amp;quot;)[0]
+
+        yield {
+            &amp;quot;sku&amp;quot;: sku,
+            &amp;quot;name&amp;quot;: response.css(&amp;quot;.section__title-text::text&amp;quot;).get(),
+            &amp;quot;make&amp;quot;: response.css(&amp;quot;h4.section__title-desc a::text&amp;quot;).get(),
+            &amp;quot;price&amp;quot;: price,
+            &amp;quot;file_urls&amp;quot;: [response.css(&amp;quot;.product-single__photo__img::attr(&amp;#39;data-pswp-src&amp;#39;)&amp;quot;).get()],
+            &amp;quot;scrape_url&amp;quot;: response.url,
+        }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This is all it takes to get all bikes from &lt;code&gt;reidhjolaverzlunin.is&lt;/code&gt;. Awesome! You can choose between XPath or CSS selectors — power or simplicity — or a mix of both. I’m a big fan of Scrapy now. One of my favorite things is &lt;code&gt;scrapy shell &amp;lt;url&amp;gt;&lt;/code&gt; which pops you into an ipython session with the &lt;code&gt;response&lt;/code&gt; object your spider would receive for a particular URL. I had a shell, and Firefox with developer tools to inspect the DOM and knocked out 14 scrapers in three or four coding sessions.&lt;/p&gt;
+&lt;p&gt;I’m using &lt;a href=&quot;https://fastapi.tiangolo.com&quot;&gt;FastAPI&lt;/a&gt; for the second time now. I’m amazed that you could take something like Flask (which I have used on projects ranging from tiny to huge with great success and no complaints), add async and make the API even better. Impressive. It has deeper integration for JSON API requests and responses — which Flask remains mostly agnostic about, leaving input validation to other libraries. In FastAPI you get sanitized input with developer friendly error reporting — although I’m not using any of these features for this project, but it’s good to know that adding a public JSON API is only a few lines of code.&lt;/p&gt;
+&lt;p&gt;There is currently only one view with different filters which I pass and combine as query parameters. I could add some caching to the front page as it doesn’t change dynamically unless there are scrapes which only ever happen a few times a day. I should really do that. But the PageSpeed score is already 100!&lt;/p&gt;
+&lt;h2&gt;Frontend&lt;/h2&gt;
+&lt;p&gt;I went back and forth with the frontend stack. There is no logged-in UX and I want everything to be super SEO friendly and fast. The idea of backend React rendering is not appealing and I don’t have a lot of experience running Node.js as a web service. Besides; I really wanted to use Python and FastAPI.&lt;/p&gt;
+&lt;p&gt;I ended up using the Jinja2 template engine which has amazing composability, macros and inheritance patterns.&lt;/p&gt;
+&lt;p&gt;What about interactive JavaScript bits? The appeal of React is that you sacrifice backend rendering (at least in Python) but move rendering closer to JavaScript which does DOM manipulation where re-renders are calculated based on an internal DOM representation in the client. For now the site is very light on JavaScript. There are only hide/show or collapse/expand features and I wrote those in TypeScript without any UI libraries (just &lt;code&gt;document.querySelector&lt;/code&gt; and things). Not sure I even needed TypeScript, but it will come in handy with more complexity further down the road. I have one dependency which is lazy loading images based on viewport and scroll position to save bandwidth.&lt;/p&gt;
+&lt;h2&gt;Other things&lt;/h2&gt;
+&lt;p&gt;After some research I settled on &lt;a href=&quot;https://www.imgix.com/&quot;&gt;imgix&lt;/a&gt; for image hosting and resizing. Turns out you can just scrape image urls, then hand the external image link over to imgix and set attributes for color trimming to remove whitespace from the bike images, detect the best compression and serve different sizes based on device DPI (webp+x2 for iPhone for example). This was really handy because although most bikes are on a white background many of them were floated with different amounts of whitespace on the image canvas, making the grid of bikes appear chaotic. Not the first time I use imgix. Love this service and API.&lt;/p&gt;
+&lt;p&gt;I’m kind of obsessed with &lt;a href=&quot;https://www.render.com&quot;&gt;Render.com&lt;/a&gt;. It’s like Heroku but without mucking about with the CLI and buildpacks. Things &quot;just work&quot; and the price is fair. For a while I thought I would need NGiNX reverse proxying to a uwsgi backend and maybe even a CDN for the static assets for a proper production environment. But I hate Docker, CloudFront, S3 and I hate VPS.&lt;/p&gt;
+&lt;p&gt;FastAPI uses Starlette which is an async http library. With async and uvicorn you get acceptable response times for static serving. This means you don’t take as big a performance penalty for not having NGiNX or CDN hosting for the JS and CSS bundles (... only two additional requests).&lt;/p&gt;
+&lt;p&gt;Between static assets being served with an async framework and imgix delivering thumbnails via edge locations I decided to drop NGiNX. Which means my hosting requirements are just a Python 3 service on Render.com.&lt;/p&gt;
+&lt;p&gt;Finally there is &lt;a href=&quot;http://poetry.eustace.io&quot;&gt;Poetry&lt;/a&gt;. This is a really well architected package manager that does &lt;em&gt;much&lt;/em&gt; better management of requirements than pip or Pipenv. It also abstracts virtualenvs and separates development requirements. I’m happy to see this project mature and gather momentum. Python really needs this. Unfortunately Render.com does not support this so you need to keep track of a &lt;code&gt;requirements.txt&lt;/code&gt; file separately. Fortunately Poetry makes this bridging relatively easy with a simple export command:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;&amp;gt; poetry export --without-hashes -f requirements.txt &amp;gt; requirements.txt
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+
+&lt;p&gt;I hope this was useful or fun or whatever.&lt;/p&gt;
+&lt;p&gt;Check out the code on &lt;a href=&quot;https://github.com/jokull/orflaedi&quot;&gt;github.com/jokull/orflaedi&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.solberg.is/2019-in-review/">
+    <title type="text">2019 annáll</title>
+    <id>urn:uuid:1c860bc7-4a07-3804-a3f8-3e603b76c91a</id>
+    <updated>2019-12-26T00:00:00Z</updated>
+    <link href="http://www.solberg.is/2019-in-review/" />
+    <author>
+      <name></name>
+    </author>
+    <content type="html">&lt;h2&gt;Bækur 2019&lt;/h2&gt;
+&lt;h3&gt;Mannlíf milli húsa (Jan Gehl)&lt;/h3&gt;
+&lt;p&gt;Ef ég horfi yfir árið og hvað ég hafðist við þá er greinilegt að þessi bók hafði mikil áhrif á mig. Hún fjallar um það hversu félagslegt fyrirbæri borgin er. Það sem gerist fyrir utan veggi húsa blómstrar eða visnar eftir því hvernig við hönnum það umhverfi. Líf fólks er runa af athöfnum sem tvinnast saman og flest líf eru í þéttbýli. Þessvegna er vel þess virði að gefa þessum fræðum gaum og hugsa útfrá sem flestum vinklum — ekki bara verkfræðilegum, þó stórmannvirki séu sum hver nauðsynleg og jafnvel stórfengleg. Þetta smáa, hversdagslega og viðkvæma er enn mikilvægara. Sumar borgir þróast í kringum akstur. Það gerir það að verkum að hún verður óaðgengileg fyrir þá sem keyra ekki. Þá er eins gott að eiga bíl. Svona spíralar eru út um allt þar sem manngert umhverfi er skipulagt og hugsað með einhverjar ákveðnar þarfir í huga á meðan aðrar gleymast. Bókin er með ótal myndrænum útskýringum og ljósmyndum sem gera lesturinn straight forward og notalegan.&lt;/p&gt;
+&lt;h3&gt;Shadow Divers (Robert Kurson)&lt;/h3&gt;
+&lt;p&gt;Djúpkafarar eru klikkaðir. Spennandi og sönn saga um leit að dularfullum kafbát Nasista á hafsbotni.&lt;/p&gt;
+&lt;h3&gt;The McKinsey Edge&lt;/h3&gt;
+&lt;p&gt;Þar sem ég byrjaði í ráðgjöf á árinu var mér ráðlagt að lesa þessa bók. McKinsey ráðgjafar eru þekktir fyrir vönduð verk. Hvernig fara þau að því? Fleiri klukkutímar í undirbúning, spurja „afhverju?“ aðeins oftar og sterkur kúltúr þar sem hvatt er til ýmiskonar rýni. Sjónræn framsetning á öllu í formi PowerPoint glæra sem eru pakkaðar af upplýsingum. Ekkert rocket science og engin töfra lausn.&lt;/p&gt;
+&lt;h3&gt;How to Hide an Empire (Daniel Immerwahr)&lt;/h3&gt;
+&lt;p&gt;Bandaríkin eru heimsveldi (e. empire). Þessa staðreynd meðtökum við almennt ekki, heldur hugsum yfirleitt um Bandaríkin sem hóp fylkja á milli Mexíkó og Kanada. Þegar aðfluttir landkönnuðir höfðu útrýmt eða einangrað frumbyggja var sókninni langt frá því að vera lokið. Fjölmörg svæði, t.a.m. Hawai, Alaska, Filipseyjar, Guam, Puerto Rico, Virgin Islands, Samoa Eyjar, svo ekki sé minnst á ótal herstöðvar, eru undir ýmiskonar yfirráði, allt frá „full blown“ innvinkluðum fylkjum í óbyggðar og umdeildar eyjar í Kyrrahafinu. Fólkinu sem þar býr eða bjó er ýmist ýtt til hliðar eða sjálfræði þeirra svipt.&lt;/p&gt;
+&lt;p&gt;Svo ég taki aðeins eitt af fjölmörgum dæmum úr bókinni: Árið 1946 voru 167 Marshallískir íbúar Bikini Atoll eyjunnar fluttir á eyjuna Rongerik Atoll. Þeim var lofað að flytja aftur til baka að loknum prófunum á kjarnorkusprengjum á þessu svæði. Rongerik Atoll er eyja með nánast engum innviðum í 200 km fjarlægð. Þar sá herinn um að flytja fólk og búslóð ásamt birgðum af mat sem entust í nokkrar vikur. Flutningarnir reyndist erfiðir heimafólki og innan nokkura ára var fólk vannært og nokkrur soltnir til dauða. Árið 1969 var fólki aftur leyft að flytja til síns heima á Bikini Atoll eyjuna. Árið 1978 kom hinsvegar í ljós að eyjan var enn geislavirk. Vel gert Bandaríkjamenn. Ótal svona dæmi eru í bókinni þar sem heimafólki er gert að sitja undir stefnu og stjórn Bandaríkjamanna. Undantekningalaust fá heimamenn skertan aðgang að markaði og innviðum Bandaríkjamanna — þannig að fólk er ekki endilega að njóta góðs af því að tengjast „þróaðra“ ríki. Enn eru dæmi um slíka meðferð, t.d. í Puerto Rico. Í dag sjáum við fréttir um meðferð Úrígúa í Kína. Það gleymist kannski að Bandaríkin eru enn með gríðarlega kynþáttaskiptingu meðal fangelsaðra. Svört saga. Góð bók. Hissa að hún var ekki á fleiri listum yfir bestu sagnfræðina á árinu.&lt;/p&gt;
+&lt;p&gt;Læt fylgja með þetta highlight þar sem fjallað er um infædda Hawaiíska hermenn í seinni heimstyrjöld sem börðust hetjulega fyrir hönd Bandaríkjanna (sem er kannski ekki sjálfsagt!):&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;One soldier, Daniel Inouye, exhibited near-inconceivable levels of valor in Tuscany at the war’s end. When three German machine guns pinned his men down, he stood up to charge. He was immediately shot in the stomach, but he ran toward the first machine-gun nest and blew it up with a grenade. He then, in his words, “lurched up the hill” toward the second emplacement, dispatching it with two grenades. On his way toward the third nest, his last grenade in hand, a German rifle grenade hit his right elbow and “all but tore my arm off.” But his right fist, hanging now from “a few bloody shreds of tissue,” still clenched an armed grenade. He pried the grenade free with his left hand and hurled it into the third machine-gun nest. As the few surviving Germans ran out, Inouye unslung his tommy gun and, left-handed, sprayed them with machine-gun fire. It was only after getting shot again, in the leg, that he finally collapsed.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;The Uninhabitable Earth - David Wallace-Wells&lt;/h3&gt;
+&lt;p&gt;Samantekt á loftslagsvísindum okkar tíma, tilraun til að fanga alvarleika málsins, þann heim sem við búum í ef ekki tekst vel til að spyrna við fótum og í lokin umræða um hina andlegu hlið; bæði ýktra dómsdagsspáa og afneitunarsinna. Það er mjög erfitt að meðtaka þetta allt og bókin fjallar einmitt að hluta til um það hversu flókið þetta fyrirbæri er. Það er ekki hægt að lesa margar svona bækur. Ég fann fyrir alvöru loftslagskvíða-slash-þunglyndi á árinu. Þetta er alveg kexruglað dæmi, að við skulum ekki bregðast harðar við þessum raunveruleika. Mér finnst eldra fólk vera að bregðast. Það eru skýr kynslóðaskipti þegar kemur að loftslagsmálum. Yngri afneitunarsinnar eru með gamlar sálir.&lt;/p&gt;
+&lt;h3&gt;Are We There Yet? (Dan Albert)&lt;/h3&gt;
+&lt;p&gt;Þegar ég las þessa var ég kominn mjög djúpt í rafhjóla- og borgarskipulagspælingar. Þessi bók kom út á árinu og er um sögu einkabílsins í Bandaríkjunum. Hann er settur í menningarlegt samhengi fyrst og fremst. Pólitík, vísindi og verkfræði fá líka að fylgja með. Ég er náttúrlega algjör sökker fyrir iðnaðarsagnfræði. Ekki skemmir ef bókin er líka fyndin á köflum. Fullt hús. Besta bókin sem ég las á árinu, held ég.&lt;/p&gt;
+&lt;h3&gt;The Code of Capital (Katharina Pistor)&lt;/h3&gt;
+&lt;p&gt;Þetta var soldið spútnikk bókin í ár meðal hagfræðinga og Financial Times kreðsunnar (sem ég fylgjast mikið með á Twitter). Það er inneign fyrir því. Bókin fylgir þeirri staðhæfingu eftir að auðvaldið sé fyrst og fremst skilgreint í lögum og eignir séu ekki veraldlegar heldur það sem við skilgreinum sem lögverjanlega eign. Pólitík gengur út á það að skilgreina mörkin þar sem eignarhaldið heldur vatni — en að sama skapi eru það færustu lögfræðingar heims sem fást við að tvinna saman þræði laganna í samningagerð þannig að allt falli réttu megin í mögulegu réttarfari og mjaki þannig skilgreiningum í ákveðna átt. Ferlinu er lýst með ótal dæmum, þar sem t.a.m. landeigendur börðust í fjölda ára í ótal samfélögum fyrir að fá eignir sínar viðurkenndar gagnvart ríkinu sjálfu. Þetta er semsagt allt mannana verk. En hvernig er hægt að viðurkenna eignir þvert á landamæri? Og hefur þetta eitthvað með ójöfnuð að gera? Góðar pælingar. Það þarf meira en bara gögn sem sýna fram á aukna auðsöfnun. Við þurfum líka að skilja hvaða starfsstéttir bera hvaða ábyrgð og að hvaða leiti þetta er félagslegt.&lt;/p&gt;
+&lt;h3&gt;The Case for People's Quantative Easing (Frances Coppola)&lt;/h3&gt;
+&lt;p&gt;Bókaritgerð fyrir hagfræðinörda. Var svo heppinn að fá að kynnast höfundinum þegar hún átti leið til Reykjavíkur. Hún er eldklár og örlítið umdeild á Twitter. Frances er besti penninn sem fæst við að lýsa heimi fjármála. Hún vann í banka og þekkir „mekanismana“ vel. Þessi bók er um það hvernig seðlabankar hafa tæklað æ flóknari og pólitískari vandamál í kjölfar efnahagshrunsins 2008. Magnbundin íhlutun er ekki bara eitthvað eitt fyrirbæri þó því sé oft lýst þannig. Hún sér lausnirnar í að halda áfram á sömu vegferð en með nokkrum stórum varnöglum. Þarna fylgir líka besta lýsingin á því hvernig bankar búa til lán sem ég hef komist í.&lt;/p&gt;
+&lt;h3&gt;Why Iceland? (Ásgeir Jónsson)&lt;/h3&gt;
+&lt;p&gt;Kom út rétt eftir hrun. Las hana af því Ásgeir er núna seðlabankastjóri. Ásgeir er betri sagnfræðingur en hagfræðingur.&lt;/p&gt;
+&lt;h3&gt;Walkable City (Jeff Speck)&lt;/h3&gt;
+&lt;p&gt;Fín bók sem tekur saman nýja úrbanismann.&lt;/p&gt;
+&lt;h3&gt;The Triumph of Injustice (Emmanuel Saez)&lt;/h3&gt;
+&lt;p&gt;Hluti af Pikkety klíkunni. Svakalega ítarlegar hagrannsóknir á ójöfnuði. Þetta er geggjuð bók ef fólk hefur áhuga á pólitík. Við verðum að skilja þetta fyrirbæri betur. Hér eru afneitunarsinnar sem og í loftslagsmálunum.&lt;/p&gt;
+&lt;h3&gt;Skunk Works (Ben Rich)&lt;/h3&gt;
+&lt;p&gt;Gæinn á bak við iconic herflugvélar skrifar um árin sín hjá Lockheed. Gullaldarár Bandaríkjanna og djúsí rannsóknir í varnarmálum áður en það fór allt að snúast um ómannað drónaflug og eftir tilvistarkrísu kalda stríðsins. Örugglega ekki bók fyrir alla. En það er nöts að lítið teymi hafi búið til mach 3 flugvél sem sést varla á radar árið 1964 (SR-71). Cybertruck lúkkið kemur klárlega frá F-117, önnur flugvél frá Lockheed.&lt;/p&gt;
+&lt;h2&gt;Skrif&lt;/h2&gt;
+&lt;p&gt;Ég skrifaði greinar fyrir Stundina. Svo hætti blaðamaðurinn sem ég fékk aðstoð frá og ritstjórinn svaraði ekki pósti. Hefði haldið áfram að skrifa þar. Finnst frábært að það sé fjölmiðill hérna með „paywall“. Besta &lt;a href=&quot;https://stundin.is/grein/8234/setjum-markid-haerra-en-sjodsstjorar-wall-street/&quot;&gt;greinin&lt;/a&gt; mín var um þjóðarsjóð sem ég tel ekki góða hugmynd.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jokull.substack.com/&quot;&gt;Reykjavík Mobility&lt;/a&gt; fréttabréfið hóf hérumbil-vikulega göngu sína. Það fór mikil orka í þetta en ég uppskar líka eftir því. Er með u.þ.b. þúsund lesendur á sumum bréfum.&lt;/p&gt;
+&lt;p&gt;Egill Helgason pikkaði upp eina grein sem fékk mjög góða umræðu: „&lt;a href=&quot;../selfdriving/&quot;&gt;Sjálfkeyrandi bílar hafa ekkert í borgarlínu&lt;/a&gt;“.&lt;/p&gt;
+&lt;h2&gt;Podcasts / Twitter / TV / o.fl.&lt;/h2&gt;
+&lt;p&gt;Bestu sjónvarpsseríurnar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chernobyl&lt;/li&gt;
+&lt;li&gt;Fleabag S02&lt;/li&gt;
+&lt;li&gt;Mindhunter S02&lt;/li&gt;
+&lt;li&gt;Succession S02&lt;/li&gt;
+&lt;li&gt;When They See Us&lt;/li&gt;
+&lt;li&gt;Top Boy S03&lt;/li&gt;
+&lt;li&gt;Warrior S01&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nokkrir skemmtilegri Twitter prófílar sem stóðu upp úr á árinu&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/HaffiO&quot;&gt;Hafþór Óli&lt;/a&gt; – gott grín&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/bragakaffi&quot;&gt;Braig David&lt;/a&gt; – gott grín&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/gunnarph&quot;&gt;Gunnar P. Hauksson&lt;/a&gt; – gott grín&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/edwardnh&quot;&gt;Edward Harrison&lt;/a&gt; – hagfræði&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/wonkmonk&quot;&gt;wonkmonk&lt;/a&gt; – hagfræði&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/colinmckerrache&quot;&gt;Colin Mckerracher&lt;/a&gt; – bílagreining&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/brad_setser&quot;&gt;Brad Setser&lt;/a&gt; – hagfræði&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/safeselfdrive&quot;&gt;Jim McPherson&lt;/a&gt; – samgöngur&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/jeuasommenulle&quot;&gt;JohannesBorgen&lt;/a&gt; – bankar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/starsandrobots&quot;&gt;Star Simpson&lt;/a&gt; – nýsköpun&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/Peters_Glen&quot;&gt;Glen Peters&lt;/a&gt; – loftslagsmálin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/adam_tooze&quot;&gt;Adam Tooze&lt;/a&gt; – sagnfræði, stjórnmál og hagfræði&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Færði emailið mitt á FastMail frá Gmail. Sé ekki eftir því. Snilldarþjónusta með mjög góð viðmót.&lt;/p&gt;
+&lt;p&gt;Keypti YouTube Premium sem er snilld. Gat ekki horft á YouTube án þess að öskra þegar pre-roll auglýsingarnar byrjuðu. Hélt mér frá því að skoða betur það sem er í boði á YouTube. Með Premium hverfa auglýsingarnar en maður fær líka aðgang að YouTube Music sem er sama content og er á Spotify, en í raun líka öll tónlist sem hefur verið uploadað sem myndbandi á YouTube, sem er algjör gullkista af non-label tónlist. Besta matartengda contentið er á YouTube.&lt;/p&gt;
+&lt;p&gt;Podcasts: Hlustaði á &lt;a href=&quot;https://overcast.fm/itunes1056200096/odd-lots&quot;&gt;OddLots&lt;/a&gt;, &lt;a href=&quot;https://overcast.fm/itunes1228396494/v-fuglinn&quot;&gt;Váfuglinn&lt;/a&gt;, &lt;a href=&quot;https://overcast.fm/itunes1437755068/the-war-on-cars&quot;&gt;War on Cars&lt;/a&gt; og &lt;a href=&quot;https://overcast.fm/itunes1434457337/micromobility&quot;&gt;Micromobility&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hélt áskrift að Financial Times. Frábært blað með feiknargóð „long reads“. Fyrir utan Financial Times þá las ég nokkrar góðar greinar á Guardian. Fannst NYTimes og Economist alveg frekar glatað.&lt;/p&gt;
+&lt;p&gt;Skráði mig í online kúrs sem heitir &lt;a href=&quot;https://www.coursera.org/learn/money-banking&quot;&gt;Economics of Money and Banking&lt;/a&gt;. Verð að viðurkenna að ég á enn eftir cirka 1/3 af þessum kúrs. Þetta var áskorun og ákveðinn lokapunktur á ferðalagi þar sem ég vildi skilja fjármálakerfið.&lt;/p&gt;
+&lt;p&gt;Ég uppgötvaði nokkur frábær fréttabréf á árinu: &lt;a href=&quot;https://rootsofprogress.org&quot;&gt;Roots of Progress&lt;/a&gt; um iðnþróun, &lt;a href=&quot;https://worthwatching.substack.com&quot;&gt;Worth Watching&lt;/a&gt; um sjónvarpsefni, &lt;a href=&quot;http://cityobservatory.org&quot;&gt;The Week Observed&lt;/a&gt; og &lt;a href=&quot;https://radicalurbanist.substack.com/&quot;&gt;Radical Urbanist&lt;/a&gt; um borgarskipulag, &lt;a href=&quot;https://www.creditwritedowns.com&quot;&gt;The Credit Writedowns&lt;/a&gt; um hagfræði ásamt nokkrum öðrum.&lt;/p&gt;
+&lt;h2&gt;Persónulegt&lt;/h2&gt;
+&lt;p&gt;Ég og Sunna héldum áfram að hreiðra um okkur og eignuðumst fallegt borðstofuborð og stóla sem og listaverk eftir &lt;a href=&quot;https://www.instagram.com/p/B5qd0l7ApqP/&quot;&gt;Ými Grönvold&lt;/a&gt;. Hreiðrið maður.&lt;/p&gt;
+&lt;p&gt;Ég og Sunna ferðuðumst til Frakklands (rómantísk ferð til Parísar og Biarritz) og Egyptalands.&lt;/p&gt;
+&lt;p&gt;Ég fékk rafhjól á heilann og endaði á að kaupa eitt slíkt.&lt;/p&gt;
+&lt;p&gt;Við Sunna borðuðum mikið af góðum mat og sóttum veitingastaði bæjarins margoft. Sjá myndir á &lt;a href=&quot;../2019-in-review/instagram.com/rvkfoodie&quot;&gt;instagram.com/rvkfoodie&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ég steig til hliðar sem CEO Takumi en er ennþá hluthafi. Þá losnaði tími fyrir aðra vinnu. Gerðist hluti af Parallel ráðgjöf hér heima og sé ekki eftir því. Hef fengið að taka þátt í mörgum spennandi verkefnum og hlakka til nýrra á næsta ári.&lt;/p&gt;
+&lt;p&gt;Ég og Sunna eignuðumst Unnar Sólberg seint í nóvember. Þvílík gæfa og hamingja!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stórkostlegt ár&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;div class=&quot;caption&quot;&gt;
+  &lt;img src=&quot;./biarritz.jpg&quot; class=&quot;shadow-img&quot;&gt;
+  &lt;p&gt;Fjölskyldan í Biarritz.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;
+  &lt;img src=&quot;./ebike.jpg&quot; class=&quot;shadow-img&quot;&gt;
+  &lt;p&gt;Fékk rafhjól á heilann.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;
+  &lt;img src=&quot;./billaus.jpg&quot; class=&quot;shadow-img&quot;&gt;
+  &lt;p&gt;Bíllausi dagurinn var frekar kúl!&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;
+  &lt;img src=&quot;./unnar.jpg&quot; class=&quot;shadow-img&quot;&gt;
+  &lt;p&gt;Kraftaverk og hápunktur ársins; Unnar Sólberg&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;
+  &lt;img src=&quot;./rokkvi.jpg&quot; class=&quot;shadow-img&quot;&gt;
+  &lt;p&gt;Margar góðar stundir með Rökkva&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;
+  &lt;img src=&quot;./utskrift.jpg&quot; class=&quot;shadow-img&quot;&gt;
+  &lt;p&gt;Sunna útskrifaðist og Rökkvi tilkynnti kynið á barninu sem var þarna á leiðinni&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;
+  &lt;img src=&quot;./unnar-2.jpg&quot; class=&quot;shadow-img&quot;&gt;
+  &lt;p&gt;Unnar Sólberg Jökulsson&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry xml:base="http://www.solberg.is/loftgaedi-app/">
+    <title type="text">Loftgæði appið</title>
+    <id>urn:uuid:db5049e4-ad8d-384a-ac12-40d2a5743784</id>
+    <updated>2019-12-14T00:00:00Z</updated>
+    <link href="http://www.solberg.is/loftgaedi-app/" />
+    <author>
+      <name></name>
+    </author>
+    <content type="html">&lt;p&gt;Hægt er að fylgjast með loftgæðum á Íslandi í appi fyrir iPhone. Gögnin eru sótt sjálfkrafa af vefsíðunni loftgaedi.is.&lt;/p&gt;
+&lt;p&gt;JSON gögn sem eru scrape-uð af loftgaedi.is má nálgast beint á &lt;a href=&quot;https://loftgaedi.onrender.com/&quot;&gt;loftgaedi.onrender.com&lt;/a&gt;. Gögnin eru uppfærð með skömmu millibili, en geta verið úreld um einhverjar mínútur miðað við það sem er á loftgaedi.is.&lt;/p&gt;
+&lt;p&gt;Appið er &lt;strong&gt;ekki&lt;/strong&gt; á vegum Umhverfisstofnunar eða þeirra sem mæla loftgæði og/eða reka mælingarstöðvar.&lt;/p&gt;
+&lt;p&gt;Þjónustan notar Python FastAPI, requests og Postgres. Appið notar SwiftUI og þarfnast iOS 13 eða nýrri útgáfu af iOS.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../loftgaedi-app/promo.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;../loftgaedi-app/terms&quot;&gt;Terms and conditions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../loftgaedi-app/privacy&quot;&gt;Privacy policy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../loftgaedi-app/&quot;&gt;Download in the Apple App Store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry xml:base="http://www.solberg.is/evran-vs-kronan/">
     <title type="text">Peningastefnan á að vera sjálfstæð</title>
     <id>urn:uuid:7356cc6a-35e5-3152-9b9a-76671810dc7d</id>
@@ -71,57 +319,68 @@
     <author>
       <name></name>
     </author>
-    <content type="html">&lt;p&gt;Yfirlit yfir flokkun tveggja- og þriggja hjóla rafknúina farartækja í umferðarlögum.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.althingi.is/lagas/nuna/1987050.html&quot;&gt;Umferðarlög á althingi.is&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;Yfirlit yfir flokkun tveggja- og þriggja hjóla rafknúinna farartækja í umferðarlögum.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reglugerd.is/reglugerdir/allar/nr/751-2003&quot;&gt;Reglugerðir um skráningar ökutækja&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.althingi.is/lagas/150a/2019077.html&quot;&gt;Umferðarlög sem tóku gildi 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.althingi.is/altext/stjt/2019.030.html&quot;&gt;Lög um tryggingar á ökutækjum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.transportpolicy.net/standard/eu-vehicle-definitions/&quot;&gt;EU skilgreiningar á ökutækjum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Þegar talað er um hámarksafl er átt við hámarksnafnafl (e. nominal power).&lt;/p&gt;
 &lt;h2&gt;Yfirlit&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;
 &lt;th style=&quot;text-align:left&quot;&gt;Flokkur&lt;/th&gt;
-&lt;th style=&quot;text-align:left&quot;&gt;EU Class&lt;/th&gt;
 &lt;th style=&quot;text-align:left&quot;&gt;Afl watt&lt;/th&gt;
 &lt;th style=&quot;text-align:left&quot;&gt;Hraði&lt;/th&gt;
 &lt;th style=&quot;text-align:left&quot;&gt;Stígar&lt;/th&gt;
 &lt;th style=&quot;text-align:left&quot;&gt;Akbrautir&lt;/th&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;Tryggingar&lt;/th&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;Skráning&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Reiðhjól B&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;—&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;250w&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;25km/h&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Já&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Já&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Nei&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Nei&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Reiðhjól C&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;—&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;250w&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;?&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;25km/h&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Já&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Nei&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Nei&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Nei&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Létt bifhjól 1&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;L1e-A&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;1.000w&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;&amp;gt; 250w&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;25km/h&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Já&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Já&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Nei&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Já, 2020&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Létt bifhjól 2&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;L1e-B&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;4.000w&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;&amp;lt; 4kw&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;45km/h&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Nei&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Já&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Já&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;Já&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Það er fullur virðisauki á öllum flokkum (en rafbílar eru með nánast fulla niðurfellingu á VSK og engin vörugjöld!). Ríkisstjórnin hefur boðað endurskoðun á þessum álögum.&lt;/p&gt;
-&lt;h2&gt;Reiðhjól B&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Uppfært 2020&lt;/strong&gt;: Frá og með 1. janúar 2020 er &lt;a href=&quot;https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2019/10/30/Hvatt-til-notkunar-vistvaenna-samgongumata-med-laegri-alogum/&quot;&gt;virðisaukaskattur felldur niður&lt;/a&gt; upp að ákveðnu þaki sem er tilgreint fyrir hvern flokk (96.000 þús fyrir Létt bifhjól og reiðhjól b og 48.000 þús fyrir reiðhjól a og c).&lt;/p&gt;
+&lt;h2&gt;Reiðhjól&lt;/h2&gt;
+&lt;h3&gt;Reiðhjól B&lt;/h3&gt;
 &lt;p&gt;„Venjuleg“ hjól geta haft aðstoðarmótor með sveifarmótor (e. pedelec) sem slær út þegar hjólið er komið á 25 km/klst hraða. Hámarksafl sveifarmótors er 250w.&lt;/p&gt;
 &lt;p&gt;Langflest rafhjól sem eru seld á Íslandi falla í þennan flokk.&lt;/p&gt;
 &lt;p&gt;Það að vélknúin tæki geti fallið undir flokkinn reiðhjól í lögunum hefur mikið að segja. T.d. eru víðari heimildir fyrir því hvernig skilið er við reiðhjól, hjálmskylda er ekki eins rík á reiðhjóli og göngustígar eru einungis ætlaðir reiðhjólum.&lt;/p&gt;
@@ -130,6 +389,7 @@
 &lt;p&gt;Dæmi: &lt;a href=&quot;https://tri.is/product/cube-cross-hybrid-race-500-allr-2019&quot;&gt;Cube Cross Hybrid Race 500&lt;/a&gt;, &lt;a href=&quot;https://www.ellingsen.is/ellingsen/reiðhjol/rafmagnshjol?ProductID=MAT-9-X250-BLACK&quot;&gt;Mate X&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Trygging:&lt;/strong&gt; Nei&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skráningarskylt:&lt;/strong&gt; Nei&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Göngu- og hjólastígar:&lt;/strong&gt; Já&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Akbraut:&lt;/strong&gt; Já&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ökuréttindi:&lt;/strong&gt; Engin&lt;/li&gt;
@@ -137,15 +397,15 @@
 &lt;li&gt;&lt;strong&gt;Hámarksafl:&lt;/strong&gt; 250w&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hraði:&lt;/strong&gt; 25km/klst&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hjálmskylda:&lt;/strong&gt; 15 ára og yngri&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vörugjöld:&lt;/strong&gt; 0%&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Reiðhjól C&lt;/h2&gt;
-&lt;p&gt;Önnur sambærileg tæki sem ná 25 km/klst hraða en án sveifarmótors. Styðjast þá heldur við ígjöf (e. throttle) eða sambærilegan búnað. Í lögunum er einfaldlega sagt; „Annað lítið vélknúið ökutæki sem ekki telst til létts bifhjóls [...]“ en létt bifhjól er ekki mjög þröngt skilgreindur flokkur þannig að ég skil afhverju eitthvað sem fellur ekki í Reiðhjól B ætti „ekki að teljast“ létt bifhjól af óskilgreindri ástæðu. Ég hef heimildir fyrir því að Xiaomi hlaupahjólin vinsælu eru reiðhjól í C flokki. Þannig að ... we’ll go with that.&lt;/p&gt;
-&lt;p&gt;Þessi flokkur er einungis leyfður á göngu- og hjólastígum.&lt;/p&gt;
+&lt;h3&gt;Reiðhjól C&lt;/h3&gt;
+&lt;p&gt;Önnur „vélknúin tæki“ sem ná 25 km/klst hraða en án sveifarmótors. Styðjast þá heldur við ígjöf (e. throttle) í stýri. Í lögunum er einfaldlega sagt; „Annað lítið vélknúið ökutæki sem ekki telst til létts bifhjóls [...]“ en létt bifhjól er ekki mjög þröngt skilgreindur flokkur þannig að ég skil afhverju eitthvað sem fellur ekki í Reiðhjól B ætti „ekki að teljast“ létt bifhjól af óskilgreindri ástæðu. Rafhlaupahjólin vinsælu eru reiðhjól í C flokki.&lt;/p&gt;
+&lt;p&gt;Þessi flokkur má ekki nota akbrautir.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;../rafhjolaflokkar/reidhjol-c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Dæmi: &lt;a href=&quot;https://mii.is/collections/dotabudin/products/electric-scooter-m365&quot;&gt;Mi Electric Scooter&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Trygging:&lt;/strong&gt; Nei&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skráningarskylt:&lt;/strong&gt; Nei&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Göngu- og hjólastígar:&lt;/strong&gt; Já&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Akbraut:&lt;/strong&gt; Nei&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ökuréttindi:&lt;/strong&gt; Engin&lt;/li&gt;
@@ -153,11 +413,11 @@
 &lt;li&gt;&lt;strong&gt;Hámarksafl:&lt;/strong&gt; Óskilgreint&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hraði:&lt;/strong&gt; 25km/klst&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hjálmskylda:&lt;/strong&gt; 16 ára og yngri&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vörugjöld:&lt;/strong&gt; 0%&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Létt bifhjól&lt;/h2&gt;
 &lt;p&gt;Önnur öflugri eða hraðari hjól flokkast sem létt bifhjól. Í EU flokkun er það L1e yfirflokkur. Þessi hjól þurfa baksýnisspegil vinstra megin, hliðarglitaugu, fetilglitaugu (á léttu bifhjóli þar sem ekki er hægt að leggja fetla að). Einnig er gerð krafa um hljóðmerkisbúnað. Æskilegt er að hjólin séu búin bremsuljósi og ljósi að framan. Sömuleiðis þarf að vera pláss fyrir númeraplötu, eitthvað sem á ekki við um Reiðhjól C.&lt;/p&gt;
 &lt;p&gt;Lögum samkvæmt er þessi flokkur skráningarskyldur en Samgöngustofa hefur ekki hafið skráningu á Flokki I.&lt;/p&gt;
+&lt;p&gt;Létt bifhjól mega ekki hafa tengivagna.&lt;/p&gt;
 &lt;h3&gt;Flokkur I&lt;/h3&gt;
 &lt;p&gt;Öflugri hjól sem eru hönnuð til aksturs allt að 25 km/klst. Flokkur 1 átti að samræmast L1e-A flokkuninni í EU, en þar er hámarksaflið 1 kW. Ekki er minnst sérstaklega á hámarksafl fyrir flokk 1, en hámarksafl fyrir létt bifhjól er 4 kW svo að það hlýtur að vera viðmiðið hér.&lt;/p&gt;
 &lt;p&gt;Nánar er fjallað um &lt;a href=&quot;https://www.samgongustofa.is/umferd/fraedsla-og-oryggi/fraedsla/velknuin-hjol/&quot;&gt;flokk 1&lt;/a&gt; á vef Samgöngustofu.&lt;/p&gt;
@@ -165,6 +425,7 @@
 &lt;p&gt;Dæmi: &lt;a href=&quot;https://radpowerbikes.eu/products/radwagon-electric-cargo-bike&quot;&gt;RadWagon&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Trygging:&lt;/strong&gt; Nei&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skráningarskylt:&lt;/strong&gt; Nei (en Samgöngustofa er að undirbúa skráningu þessara tækja)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Göngu- og hjólastígar:&lt;/strong&gt; Já&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Akbraut:&lt;/strong&gt; Já&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ökuréttindi:&lt;/strong&gt; Nei&lt;/li&gt;
@@ -172,16 +433,16 @@
 &lt;li&gt;&lt;strong&gt;Hámarksafl:&lt;/strong&gt; 4 kW&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hraði:&lt;/strong&gt; 25km/klst&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hjálmskylda:&lt;/strong&gt; Já&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vörugjöld:&lt;/strong&gt; 0%&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Flokkur II&lt;/h3&gt;
-&lt;p&gt;Öflugri hjól sem eru önnuð til aksturs allt að 45 km/klst! Flokkur 2 samræmist L1e-B flokkun í EU reglugerðum, oft kallað S Pedelec þegar um sveifarmótor er að ræða. Þessi flokkur af farartækjum geta líka haft fóthvílur (e. pegs) ásamt ígjöf (e. throttle) í stýri — eru þá meira í ætt við mótorhjól í útliti og upplifun.&lt;/p&gt;
-&lt;p&gt;Það skrýtna við þessi tæki er að þau mega ekki nota hjólastíga og þurfa því að sameinast þungri umferð á hraðbrautum víðsvegar um höfuðborgarsvæðið, án þess þó að geta fylgt umferð því hámarkshraði er 45 km/klst. Einhverjir hafa farið þá leið að aflæsa hámarki (sem er ólöglegt, en eflaust öruggara ef maður er á annað borð kominn á hraðbraut) eða stelast einfaldlega inn á hjólastíga.&lt;/p&gt;
+&lt;p&gt;Öflugri hjól sem eru hönnuð til aksturs allt að 45 km/klst! Flokkur 2 samræmist L1e-B flokkun í EU reglugerðum, oft kallað S-Pedelec þegar um sveifarmótor er að ræða. Þessi flokkur af farartækjum geta líka haft fóthvílur (e. pegs) ásamt ígjöf (e. throttle) í stýri — eru þá meira í ætt við mótorhjól í útliti og upplifun (moped eða vespa).&lt;/p&gt;
+&lt;p&gt;Það skrýtna við þessi tæki er að þau mega ekki nota hjólastíga og þurfa því að sameinast þungri umferð á hraðbrautum víðsvegar um höfuðborgarsvæðið, án þess þó að geta fylgt umferð því hámarkshraði tækisins er 45 km/klst. Einhverjir hafa farið þá leið að aflæsa hámarki (sem er ólöglegt) eða stelast einfaldlega inn á hjólastíga (sem er einnig lögbrot).&lt;/p&gt;
 &lt;p&gt;Í Hollandi og Danmörku eru S Pedelec hjóla, sem eru í flokki II á Íslandi, leyfð á hjólastígum. Í Sviss og Þýskalandi eru þau það ekki.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;../rafhjolaflokkar/lett-bifhjol-2.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Dæmi: &lt;a href=&quot;https://www.nova.is/barinn/vara/rafmagnsmotorhjol-tc&quot;&gt;Super SOCO TC&lt;/a&gt;, &lt;a href=&quot;https://www.trekbikes.com/us/en_US/bikes/hybrid-bikes/electric-hybrid-bikes/super-commuter/super-commuter-8s/p/17297/&quot;&gt;Trek Super Commuter+ 8S&lt;/a&gt;, &lt;a href=&quot;https://www.stromerbike.com/en_us/e-bikes/st2.html&quot;&gt;Stromer ST2&lt;/a&gt;, &lt;a href=&quot;https://jokull.substack.com/p/reykjavk-mobility-2-tgfa&quot;&gt;Burðarhjól Póstsins&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Trygging:&lt;/strong&gt; Já (u.þ.b. 80-120 þús kr. á ári)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skráningarskylt:&lt;/strong&gt; Já&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Göngu- og hjólastígar:&lt;/strong&gt; Nei&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Akbraut:&lt;/strong&gt; Já&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ökuréttindi:&lt;/strong&gt; Já&lt;/li&gt;
@@ -189,14 +450,14 @@
 &lt;li&gt;&lt;strong&gt;Hámarksafl:&lt;/strong&gt; 4 kW&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hraði:&lt;/strong&gt; 45km/klst&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hjálmskylda:&lt;/strong&gt; Já&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vörugjöld:&lt;/strong&gt; 0%&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Algengar spurning&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Í hvaða tollaflokk er hvert og eitt hjól?&lt;/strong&gt; Reiðhjól B, C og Létt bifhjól flokkir 1 eru í tollaflokki 8711.6010. Flokkur II lendir í 8711.6090.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ef flokkur II má ekki vera á göngu- og hjólastígum, eiga þessi tæki þá að vera í umferð með bílum, jafnvel á hraðbrautum?&lt;/strong&gt; Já&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Í hvaða tollaflokk er hvert og eitt hjól?&lt;/strong&gt; Reiðhjól B, C og Létt bifhjól flokkir 1 eru í tollaflokki 8711.6010. Flokkur 2 lendir í 8711.6090.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hvað kostar að tryggja létt bifhjól?&lt;/strong&gt; Í kringum 90.000 á ári&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hvernig lítur skráningarplatan út?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.notion.so/19cf6a9fb8dd46fd8d5d20527a0cdf3c#0af12f0032bb4a1187fb900c0d4312b7&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hvernig lítur skráningarplatan út?&lt;/strong&gt; Létt bifhjól í flokki 2 fá bláa plötu með hvítum stöfum. Platan fyrir flokk 1 verður appelsínugul en skráningarferli verður kynnt af Samgöngustofu á næstunni.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tryggingafélagið mitt og/eða tollurinn segja að Flokkur 2 sé ekki tryggingaskyldur&lt;/strong&gt;: Þau hafa rangt fyrir sér. Þú gætir sloppið í gegnum tryggingar og jafnvel skráningu við innflutning, en samkvæmt Samgöngustofu eru öll götuskráð tæki fyrir utan Létt bifhjól 1 tryggingaskyld. Tryggingafélagið þitt á að fá meldingu við skráningu og á svo að hafa samband við þig.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ég er að hugsa um að flytja inn svona tæki, hvað þarf ég að hafa í huga?&lt;/strong&gt;: Passaðu að verksmiðjuskirteini (factory certificates) fylgi hjólinu til að tollurinn geti flokkað rétt. Þegar þetta vantar hefur oft þurft að skila tækjum til baka.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Íslandspóstur er a léttum bifhjólum í flokki 2, en ég sé bílstjóra þeirra á hjólunum upp á gangstéttum og hjólastígum&lt;/strong&gt;: Jebb. Tæki í flokki 2 mega ekki vera á gangstétt en Pósturinn segist stilla tækin fyrirfram fyrir flokk 1 og 2 með því að takmarka hámarkshraða. Pósturinn getur borið fyrir sig að tækin séu stillt í hugbúnaði og hraðinn takmarkaður við 25 km/klst áður en tækin leggja af stað. Það breytir því ekki að þau eru skráð á plötum í Flokk 2.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ertu með fleiri spurningar?&lt;/strong&gt; Hafðu samband við jokull@solberg.is og ég mun leitast við að uppfæra þetta skjal.&lt;/p&gt;
 </content>
   </entry>
@@ -582,11 +843,6 @@ ríkisfjármála. Hátt skuldahlutfall er t.a.m. meira íþyngjandi ef vaxtastig
       <name></name>
     </author>
     <content type="html">&lt;p&gt;These are books that I recommend. You can see my &lt;a href=&quot;https://www.goodreads.com/user/show/36882440-j-kull-au-unsson&quot;&gt;whole bookshelf on Goodreads&lt;/a&gt;. The notes will explain why I enjoyed the books and how they affected my thinking.&lt;/p&gt;
-&lt;h2&gt;Currently reading&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/11519507-the-park-chung-hee-era&quot;&gt;The Park Chung Hee Era: The Transformation of South Korea&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/43333727-mannl-f-milli-h-sa&quot;&gt;Mannlíf milli húsa&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2&gt;2018&lt;/h2&gt;
 &lt;h3&gt;Doing Capitalism&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/40196908-doing-capitalism-in-the-innovation-economy&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
